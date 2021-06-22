@@ -1,0 +1,784 @@
+2021-06-17 22:49:51,372 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 22:49:51,388 INFO i.g.b.w.WebDriverManager [main] Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2021-06-17 22:49:51,939 INFO i.g.b.w.Downloader [main] Downloading https://chromedriver.storage.googleapis.com/91.0.4472.101/chromedriver_win32.zip
+2021-06-17 22:49:52,563 INFO i.g.b.w.Downloader [main] Extracting binary from compressed file chromedriver_win32.zip
+2021-06-17 22:49:52,659 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 22:50:58,396 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 22:50:58,412 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 22:52:14,500 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 22:52:14,516 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 22:57:04,791 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 22:57:04,815 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 22:57:41,932 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 22:57:41,948 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 22:58:52,892 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 22:58:52,908 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 23:01:34,263 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 23:01:34,279 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 23:06:09,352 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 23:06:09,368 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 23:07:14,329 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 23:07:14,353 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 23:10:24,267 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 23:10:24,283 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 23:17:26,678 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 23:17:26,694 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-17 23:19:06,556 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-17 23:19:06,580 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:21:19,879 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:21:19,903 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:23:13,044 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:23:13,060 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:26:24,119 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:26:24,135 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:26:29,801 INFO o.T.OtusTest [main] 
+2021-06-19 19:27:29,370 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:27:29,385 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:27:36,779 INFO o.T.OtusTest [main] fwfwfВОЙДИТЕ В СВОЙ АККАУНТ
+2021-06-19 19:28:08,011 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:28:08,027 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:28:14,879 INFO o.T.OtusTest [main] fwfwfВОЙДИТЕ В СВОЙ АККАУНТ
+2021-06-19 19:30:34,461 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:30:34,477 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:34:53,556 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:34:53,572 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:35:18,407 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:35:18,415 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-19 19:38:56,180 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-19 19:38:56,196 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:45:25,984 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:45:26,016 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:46:08,250 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:46:08,281 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:47:06,647 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:47:06,663 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:48:48,824 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:48:48,840 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:50:24,562 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:50:24,578 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:50:49,605 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:50:49,629 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:51:18,968 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:51:18,984 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:51:50,561 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:51:50,585 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 13:52:08,447 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 13:52:08,479 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 15:47:00,108 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 15:47:00,124 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 15:47:16,283 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 15:47:16,298 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 15:58:04,966 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 15:58:04,981 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 15:59:07,261 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 15:59:07,277 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:00:28,234 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:00:28,250 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:01:10,552 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:01:10,568 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:01:16,984 INFO o.T.OtusTest [main] Открыта страница Онлайн‑курсы для профессионалов, дистанционное обучение современным профессиям
+2021-06-20 16:06:12,542 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:06:12,557 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:06:18,882 INFO o.T.OtusTest [main] Открыта страница 
+2021-06-20 16:06:46,305 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:06:46,320 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:07:05,215 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:07:05,231 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:18:42,268 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:18:42,284 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:24:45,771 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:24:45,802 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:25:28,486 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:25:28,502 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:25:55,462 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:25:55,478 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:30:59,819 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:30:59,835 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:50:57,873 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:50:57,889 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:51:23,655 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:51:23,671 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:51:35,126 INFO o.T.OtusTest [main] dfsdМои курсы
+2021-06-20 16:53:57,344 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:53:57,360 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 16:59:40,436 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 16:59:40,452 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 17:03:28,484 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 17:03:28,508 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 17:21:41,544 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 17:21:41,568 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:01:27,988 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:01:28,004 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:02:55,761 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:02:55,777 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:17:28,357 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:17:28,372 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:18:21,896 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:18:21,912 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:21:50,508 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:21:50,524 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:25:03,071 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:25:03,095 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:27:54,633 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:27:54,649 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:38:02,223 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:38:02,239 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:38:42,177 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:38:42,193 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:39:38,268 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:39:38,284 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:40:53,869 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:40:53,885 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:41:37,462 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:41:37,478 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:54:22,042 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:54:22,059 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:54:55,557 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:54:55,573 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:55:32,042 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:55:32,057 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:56:32,787 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:56:32,802 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:56:46,784 INFO o.T.OtusTest [main] ляляляРоссия
+2021-06-20 18:58:00,484 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:58:00,500 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:58:13,865 INFO o.T.OtusTest [main] ляляляРоссия
+2021-06-20 18:58:51,685 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 18:58:51,699 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 18:59:05,505 INFO o.T.OtusTest [main] ляляляРоссия
+2021-06-20 19:01:04,557 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:01:04,573 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:01:19,795 INFO o.T.OtusTest [main] ляляляРоссия
+2021-06-20 19:01:29,445 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:01:29,476 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:01:45,403 INFO o.T.OtusTest [main] ляляляРоссия
+2021-06-20 19:02:03,113 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:02:03,144 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:02:19,873 INFO o.T.OtusTest [main] ляляляРоссия
+2021-06-20 19:04:07,464 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:04:07,479 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:04:55,077 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:04:55,092 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:07:59,986 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:08:00,005 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:22:20,744 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:22:20,759 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:23:17,933 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:23:17,949 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:24:46,991 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:24:47,007 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:25:52,289 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:25:52,305 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:27:16,543 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:27:16,559 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:35:18,059 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:35:18,076 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:37:18,814 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:37:18,830 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:47:54,715 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:47:54,731 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:55:25,115 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:55:25,131 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:56:41,085 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:56:41,101 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 19:59:13,974 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 19:59:13,990 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:00:00,325 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:00:00,341 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:13:24,177 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:13:24,193 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:14:13,239 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:14:13,271 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:15:15,199 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:15:15,215 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:15:33,230 INFO o.T.OtusTest [main] Не указано
+2021-06-20 20:15:33,246 INFO o.T.OtusTest [main] Россия
+2021-06-20 20:15:33,270 INFO o.T.OtusTest [main] Республика Беларусь
+2021-06-20 20:15:33,294 INFO o.T.OtusTest [main] Казахстан
+2021-06-20 20:15:33,318 INFO o.T.OtusTest [main] Украина
+2021-06-20 20:15:33,334 INFO o.T.OtusTest [main] Молдова
+2021-06-20 20:15:33,350 INFO o.T.OtusTest [main] США
+2021-06-20 20:15:33,365 INFO o.T.OtusTest [main] Узбекистан
+2021-06-20 20:15:33,382 INFO o.T.OtusTest [main] Германия
+2021-06-20 20:15:33,398 INFO o.T.OtusTest [main] Франция
+2021-06-20 20:15:33,421 INFO o.T.OtusTest [main] Польша
+2021-06-20 20:15:33,437 INFO o.T.OtusTest [main] Нидерланды
+2021-06-20 20:15:33,453 INFO o.T.OtusTest [main] Латвия
+2021-06-20 20:15:33,469 INFO o.T.OtusTest [main] Великобритания
+2021-06-20 20:15:33,493 INFO o.T.OtusTest [main] Эстония
+2021-06-20 20:15:33,509 INFO o.T.OtusTest [main] Сингапур
+2021-06-20 20:15:33,525 INFO o.T.OtusTest [main] Швейцария
+2021-06-20 20:15:33,549 INFO o.T.OtusTest [main] Чехия
+2021-06-20 20:15:33,565 INFO o.T.OtusTest [main] Израиль
+2021-06-20 20:15:33,581 INFO o.T.OtusTest [main] Азербайджан
+2021-06-20 20:15:33,597 INFO o.T.OtusTest [main] Кипр
+2021-06-20 20:15:33,613 INFO o.T.OtusTest [main] Турция
+2021-06-20 20:15:33,629 INFO o.T.OtusTest [main] Канада
+2021-06-20 20:16:50,764 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:16:50,780 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:17:07,991 INFO o.T.OtusTest [main] ffНе указаноfff
+2021-06-20 20:17:07,991 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,015 INFO o.T.OtusTest [main] ffРоссияfff
+2021-06-20 20:17:08,015 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,047 INFO o.T.OtusTest [main] ffРеспублика Беларусьfff
+2021-06-20 20:17:08,047 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,063 INFO o.T.OtusTest [main] ffКазахстанfff
+2021-06-20 20:17:08,071 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,087 INFO o.T.OtusTest [main] ffУкраинаfff
+2021-06-20 20:17:08,087 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,103 INFO o.T.OtusTest [main] ffМолдоваfff
+2021-06-20 20:17:08,103 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,119 INFO o.T.OtusTest [main] ffСШАfff
+2021-06-20 20:17:08,119 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,135 INFO o.T.OtusTest [main] ffУзбекистанfff
+2021-06-20 20:17:08,135 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,151 INFO o.T.OtusTest [main] ffГерманияfff
+2021-06-20 20:17:08,151 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,167 INFO o.T.OtusTest [main] ffФранцияfff
+2021-06-20 20:17:08,167 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,191 INFO o.T.OtusTest [main] ffПольшаfff
+2021-06-20 20:17:08,191 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,215 INFO o.T.OtusTest [main] ffНидерландыfff
+2021-06-20 20:17:08,215 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,231 INFO o.T.OtusTest [main] ffЛатвияfff
+2021-06-20 20:17:08,231 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,255 INFO o.T.OtusTest [main] ffВеликобританияfff
+2021-06-20 20:17:08,255 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,271 INFO o.T.OtusTest [main] ffЭстонияfff
+2021-06-20 20:17:08,271 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,295 INFO o.T.OtusTest [main] ffСингапурfff
+2021-06-20 20:17:08,295 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,311 INFO o.T.OtusTest [main] ffШвейцарияfff
+2021-06-20 20:17:08,311 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,327 INFO o.T.OtusTest [main] ffЧехияfff
+2021-06-20 20:17:08,327 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,343 INFO o.T.OtusTest [main] ffИзраильfff
+2021-06-20 20:17:08,343 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,367 INFO o.T.OtusTest [main] ffАзербайджанfff
+2021-06-20 20:17:08,367 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,383 INFO o.T.OtusTest [main] ffКипрfff
+2021-06-20 20:17:08,383 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,407 INFO o.T.OtusTest [main] ffТурцияfff
+2021-06-20 20:17:08,407 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:08,423 INFO o.T.OtusTest [main] ffКанадаfff
+2021-06-20 20:17:08,423 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:17:42,483 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:17:42,499 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:18:05,252 INFO o.T.OtusTest [main] ffНе указаноfff
+2021-06-20 20:18:05,252 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,276 INFO o.T.OtusTest [main] ffРоссияfff
+2021-06-20 20:18:05,276 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,299 INFO o.T.OtusTest [main] ffРеспублика Беларусьfff
+2021-06-20 20:18:05,299 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,323 INFO o.T.OtusTest [main] ffКазахстанfff
+2021-06-20 20:18:05,323 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,339 INFO o.T.OtusTest [main] ffУкраинаfff
+2021-06-20 20:18:05,339 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,363 INFO o.T.OtusTest [main] ffМолдоваfff
+2021-06-20 20:18:05,363 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,387 INFO o.T.OtusTest [main] ffСШАfff
+2021-06-20 20:18:05,387 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,403 INFO o.T.OtusTest [main] ffУзбекистанfff
+2021-06-20 20:18:05,403 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,427 INFO o.T.OtusTest [main] ffГерманияfff
+2021-06-20 20:18:05,427 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,443 INFO o.T.OtusTest [main] ffФранцияfff
+2021-06-20 20:18:05,443 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,467 INFO o.T.OtusTest [main] ffПольшаfff
+2021-06-20 20:18:05,467 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,483 INFO o.T.OtusTest [main] ffНидерландыfff
+2021-06-20 20:18:05,483 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,499 INFO o.T.OtusTest [main] ffЛатвияfff
+2021-06-20 20:18:05,499 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,515 INFO o.T.OtusTest [main] ffВеликобританияfff
+2021-06-20 20:18:05,515 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,531 INFO o.T.OtusTest [main] ffЭстонияfff
+2021-06-20 20:18:05,531 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,555 INFO o.T.OtusTest [main] ffСингапурfff
+2021-06-20 20:18:05,555 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,571 INFO o.T.OtusTest [main] ffШвейцарияfff
+2021-06-20 20:18:05,571 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,587 INFO o.T.OtusTest [main] ffЧехияfff
+2021-06-20 20:18:05,587 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,603 INFO o.T.OtusTest [main] ffИзраильfff
+2021-06-20 20:18:05,603 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,619 INFO o.T.OtusTest [main] ffАзербайджанfff
+2021-06-20 20:18:05,619 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,635 INFO o.T.OtusTest [main] ffКипрfff
+2021-06-20 20:18:05,635 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,659 INFO o.T.OtusTest [main] ffТурцияfff
+2021-06-20 20:18:05,659 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:18:05,675 INFO o.T.OtusTest [main] ffКанадаfff
+2021-06-20 20:18:05,675 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:04,956 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:19:04,972 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:19:20,175 INFO o.T.OtusTest [main] ffНе указаноfff
+2021-06-20 20:19:20,175 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,191 INFO o.T.OtusTest [main] ffРоссияfff
+2021-06-20 20:19:20,191 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,215 INFO o.T.OtusTest [main] ffРеспублика Беларусьfff
+2021-06-20 20:19:20,215 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,239 INFO o.T.OtusTest [main] ffКазахстанfff
+2021-06-20 20:19:20,239 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,255 INFO o.T.OtusTest [main] ffУкраинаfff
+2021-06-20 20:19:20,255 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,271 INFO o.T.OtusTest [main] ffМолдоваfff
+2021-06-20 20:19:20,271 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,287 INFO o.T.OtusTest [main] ffСШАfff
+2021-06-20 20:19:20,287 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,303 INFO o.T.OtusTest [main] ffУзбекистанfff
+2021-06-20 20:19:20,303 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,327 INFO o.T.OtusTest [main] ffГерманияfff
+2021-06-20 20:19:20,327 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,343 INFO o.T.OtusTest [main] ffФранцияfff
+2021-06-20 20:19:20,343 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,359 INFO o.T.OtusTest [main] ffПольшаfff
+2021-06-20 20:19:20,359 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,375 INFO o.T.OtusTest [main] ffНидерландыfff
+2021-06-20 20:19:20,375 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,399 INFO o.T.OtusTest [main] ffЛатвияfff
+2021-06-20 20:19:20,399 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,415 INFO o.T.OtusTest [main] ffВеликобританияfff
+2021-06-20 20:19:20,415 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,439 INFO o.T.OtusTest [main] ffЭстонияfff
+2021-06-20 20:19:20,439 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,471 INFO o.T.OtusTest [main] ffСингапурfff
+2021-06-20 20:19:20,471 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,495 INFO o.T.OtusTest [main] ffШвейцарияfff
+2021-06-20 20:19:20,495 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,519 INFO o.T.OtusTest [main] ffЧехияfff
+2021-06-20 20:19:20,519 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,535 INFO o.T.OtusTest [main] ffИзраильfff
+2021-06-20 20:19:20,535 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,551 INFO o.T.OtusTest [main] ffАзербайджанfff
+2021-06-20 20:19:20,551 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,567 INFO o.T.OtusTest [main] ffКипрfff
+2021-06-20 20:19:20,567 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,583 INFO o.T.OtusTest [main] ffТурцияfff
+2021-06-20 20:19:20,583 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:20,607 INFO o.T.OtusTest [main] ffКанадаfff
+2021-06-20 20:19:20,607 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:19:49,213 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:19:49,229 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:20:07,853 INFO o.T.OtusTest [main] ffНе указаноfff
+2021-06-20 20:20:07,853 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:07,877 INFO o.T.OtusTest [main] ffРоссияfff
+2021-06-20 20:20:07,877 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:07,901 INFO o.T.OtusTest [main] ffРеспублика Беларусьfff
+2021-06-20 20:20:07,901 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:07,925 INFO o.T.OtusTest [main] ffКазахстанfff
+2021-06-20 20:20:07,925 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:07,949 INFO o.T.OtusTest [main] ffУкраинаfff
+2021-06-20 20:20:07,949 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:07,973 INFO o.T.OtusTest [main] ffМолдоваfff
+2021-06-20 20:20:07,973 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:07,989 INFO o.T.OtusTest [main] ffСШАfff
+2021-06-20 20:20:07,989 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,013 INFO o.T.OtusTest [main] ffУзбекистанfff
+2021-06-20 20:20:08,013 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,029 INFO o.T.OtusTest [main] ffГерманияfff
+2021-06-20 20:20:08,029 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,053 INFO o.T.OtusTest [main] ffФранцияfff
+2021-06-20 20:20:08,053 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,077 INFO o.T.OtusTest [main] ffПольшаfff
+2021-06-20 20:20:08,077 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,093 INFO o.T.OtusTest [main] ffНидерландыfff
+2021-06-20 20:20:08,093 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,117 INFO o.T.OtusTest [main] ffЛатвияfff
+2021-06-20 20:20:08,117 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,141 INFO o.T.OtusTest [main] ffВеликобританияfff
+2021-06-20 20:20:08,141 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,165 INFO o.T.OtusTest [main] ffЭстонияfff
+2021-06-20 20:20:08,165 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,181 INFO o.T.OtusTest [main] ffСингапурfff
+2021-06-20 20:20:08,181 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,205 INFO o.T.OtusTest [main] ffШвейцарияfff
+2021-06-20 20:20:08,205 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,221 INFO o.T.OtusTest [main] ffЧехияfff
+2021-06-20 20:20:08,229 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,245 INFO o.T.OtusTest [main] ffИзраильfff
+2021-06-20 20:20:08,245 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,269 INFO o.T.OtusTest [main] ffАзербайджанfff
+2021-06-20 20:20:08,269 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,293 INFO o.T.OtusTest [main] ffКипрfff
+2021-06-20 20:20:08,293 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,309 INFO o.T.OtusTest [main] ffТурцияfff
+2021-06-20 20:20:08,309 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:20:08,333 INFO o.T.OtusTest [main] ffКанадаfff
+2021-06-20 20:20:08,333 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:22:48,308 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:22:48,324 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:23:07,124 INFO o.T.OtusTest [main] ffНе указаноfff
+2021-06-20 20:23:07,124 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,140 INFO o.T.OtusTest [main] ffРоссияfff
+2021-06-20 20:23:07,140 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,172 INFO o.T.OtusTest [main] ffРеспублика Беларусьfff
+2021-06-20 20:23:07,172 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,188 INFO o.T.OtusTest [main] ffКазахстанfff
+2021-06-20 20:23:07,188 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,204 INFO o.T.OtusTest [main] ffУкраинаfff
+2021-06-20 20:23:07,204 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,220 INFO o.T.OtusTest [main] ffМолдоваfff
+2021-06-20 20:23:07,220 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,244 INFO o.T.OtusTest [main] ffСШАfff
+2021-06-20 20:23:07,244 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,260 INFO o.T.OtusTest [main] ffУзбекистанfff
+2021-06-20 20:23:07,260 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,276 INFO o.T.OtusTest [main] ffГерманияfff
+2021-06-20 20:23:07,276 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,292 INFO o.T.OtusTest [main] ffФранцияfff
+2021-06-20 20:23:07,292 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,316 INFO o.T.OtusTest [main] ffПольшаfff
+2021-06-20 20:23:07,316 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,332 INFO o.T.OtusTest [main] ffНидерландыfff
+2021-06-20 20:23:07,332 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,348 INFO o.T.OtusTest [main] ffЛатвияfff
+2021-06-20 20:23:07,348 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,372 INFO o.T.OtusTest [main] ffВеликобританияfff
+2021-06-20 20:23:07,372 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,388 INFO o.T.OtusTest [main] ffЭстонияfff
+2021-06-20 20:23:07,388 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,412 INFO o.T.OtusTest [main] ffСингапурfff
+2021-06-20 20:23:07,412 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,436 INFO o.T.OtusTest [main] ffШвейцарияfff
+2021-06-20 20:23:07,436 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,452 INFO o.T.OtusTest [main] ffЧехияfff
+2021-06-20 20:23:07,452 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,468 INFO o.T.OtusTest [main] ffИзраильfff
+2021-06-20 20:23:07,468 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,483 INFO o.T.OtusTest [main] ffАзербайджанfff
+2021-06-20 20:23:07,483 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,500 INFO o.T.OtusTest [main] ffКипрfff
+2021-06-20 20:23:07,500 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,516 INFO o.T.OtusTest [main] ffТурцияfff
+2021-06-20 20:23:07,516 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:23:07,539 INFO o.T.OtusTest [main] ffКанадаfff
+2021-06-20 20:23:07,539 INFO o.T.OtusTest [main] aaÐÐ¾Ð»Ð´Ð¾Ð²Ð°aaa
+2021-06-20 20:29:15,218 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:29:15,234 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:30:03,511 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:30:03,527 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:30:46,047 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:30:46,072 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:31:05,027 INFO o.T.OtusTest [main] ffНе указаноfff
+2021-06-20 20:31:05,027 INFO o.T.OtusTest [main] aaМолдоваaaa
+2021-06-20 20:31:05,051 INFO o.T.OtusTest [main] ffРоссияfff
+2021-06-20 20:31:05,051 INFO o.T.OtusTest [main] aaМолдоваaaa
+2021-06-20 20:31:05,083 INFO o.T.OtusTest [main] ffРеспублика Беларусьfff
+2021-06-20 20:31:05,083 INFO o.T.OtusTest [main] aaМолдоваaaa
+2021-06-20 20:31:05,107 INFO o.T.OtusTest [main] ffКазахстанfff
+2021-06-20 20:31:05,107 INFO o.T.OtusTest [main] aaМолдоваaaa
+2021-06-20 20:31:05,131 INFO o.T.OtusTest [main] ffУкраинаfff
+2021-06-20 20:31:05,131 INFO o.T.OtusTest [main] aaМолдоваaaa
+2021-06-20 20:31:05,155 INFO o.T.OtusTest [main] ffМолдоваfff
+2021-06-20 20:31:05,155 INFO o.T.OtusTest [main] aaМолдоваaaa
+2021-06-20 20:34:41,908 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:34:41,924 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:36:03,697 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:36:03,713 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:37:54,425 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:37:54,441 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:40:17,956 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:40:17,972 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:41:50,577 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:41:50,593 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:42:52,682 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:42:52,698 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:47:38,333 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:47:38,357 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:48:36,279 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:48:36,303 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 20:50:46,475 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 20:50:46,499 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 21:28:21,829 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 21:28:21,853 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 21:29:34,783 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 21:29:34,799 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 21:50:02,012 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 21:50:02,028 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 21:50:20,463 INFO o.T.OtusTest [main] false
+2021-06-20 21:50:56,767 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 21:50:56,791 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 21:51:18,184 INFO o.T.OtusTest [main] true
+2021-06-20 21:54:47,943 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 21:54:47,967 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 21:55:13,030 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 21:55:13,046 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 21:55:32,289 INFO o.T.OtusTest [main] true
+2021-06-20 21:58:56,723 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 21:58:56,739 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 21:59:13,261 INFO o.T.OtusTest [main] true
+2021-06-20 22:06:38,109 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:06:38,124 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:06:54,664 INFO o.T.OtusTest [main] true
+2021-06-20 22:06:54,664 INFO o.T.OtusTest [main] Нет
+2021-06-20 22:06:54,664 INFO o.T.OtusTest [main] false
+2021-06-20 22:08:02,206 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:08:02,222 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:08:34,098 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:08:34,129 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:08:53,072 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:08:53,088 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:09:09,948 INFO o.T.OtusTest [main] true
+2021-06-20 22:09:09,948 INFO o.T.OtusTest [main] aaНетgg
+2021-06-20 22:09:09,948 INFO o.T.OtusTest [main] true
+2021-06-20 22:10:12,148 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:10:12,163 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:15:19,092 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:15:19,108 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:23:47,097 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:23:47,121 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:24:31,448 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:24:31,464 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:25:43,163 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:25:43,187 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:27:27,142 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:27:27,158 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:28:13,380 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:28:13,404 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 22:29:13,886 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 22:29:13,902 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:18:14,651 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:18:14,675 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:19:25,820 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:19:25,836 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:34:54,476 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:34:54,492 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:38:27,236 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:38:27,260 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:41:08,790 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:41:08,806 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:41:57,434 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:41:57,449 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:42:41,587 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:42:41,602 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:44:02,128 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:44:02,152 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:45:24,427 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:45:24,442 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-20 23:46:09,348 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-20 23:46:09,364 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 14:22:18,287 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 14:22:18,311 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 14:23:58,517 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 14:23:58,533 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 14:27:28,085 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 14:27:28,101 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 14:28:11,415 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 14:28:11,431 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 14:29:00,609 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 14:29:00,625 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 14:30:54,916 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 14:30:54,931 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 14:31:40,582 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 14:31:40,597 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 15:03:33,942 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 15:03:33,958 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 15:03:52,299 INFO o.T.OtusTest [main] длина массива3
+2021-06-21 15:06:01,225 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 15:06:01,241 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 15:06:18,469 INFO o.T.OtusTest [main] длина массива3
+2021-06-21 15:07:38,921 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 15:07:38,945 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 15:07:59,992 INFO o.T.OtusTest [main] длина массива3
+2021-06-21 15:09:07,957 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 15:09:07,973 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 15:09:25,656 INFO o.T.OtusTest [main] длина массива3
+2021-06-21 15:09:26,215 INFO o.T.OtusTest [main] длина массива4
+2021-06-21 15:10:25,180 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 15:10:25,204 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 15:10:44,112 INFO o.T.OtusTest [main] длина массива5
+2021-06-21 15:10:44,751 INFO o.T.OtusTest [main] длина массива6
+2021-06-21 15:12:41,223 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 15:12:41,239 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 15:13:00,110 INFO o.T.OtusTest [main] длина массива5
+2021-06-21 15:13:00,774 INFO o.T.OtusTest [main] длина массива6
+2021-06-21 15:14:47,561 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 15:14:47,585 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 15:15:09,186 INFO o.T.OtusTest [main] длина массива5
+2021-06-21 15:15:09,826 INFO o.T.OtusTest [main] длина массива6
+2021-06-21 15:15:12,760 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 15:15:12,776 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 19:50:20,097 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 19:50:20,114 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 19:50:37,305 INFO o.T.OtusTest [main] длина массива5
+2021-06-21 19:50:37,876 INFO o.T.OtusTest [main] длина массива6
+2021-06-21 19:50:40,227 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 19:50:40,240 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 19:53:49,965 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 19:53:49,981 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 19:54:05,501 INFO o.T.OtusTest [main] длина массива2
+2021-06-21 19:54:05,937 INFO o.T.OtusTest [main] длина массива3
+2021-06-21 19:54:08,403 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 19:54:08,416 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 19:56:22,967 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 19:56:22,985 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-21 19:56:38,159 INFO o.T.OtusTest [main] длина массива4
+2021-06-21 19:56:38,666 INFO o.T.OtusTest [main] длина массива5
+2021-06-21 19:56:41,712 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-21 19:56:41,729 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 14:55:43,314 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 14:55:43,338 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 14:56:05,809 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 14:56:06,616 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 14:56:09,207 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 14:56:09,223 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 14:59:05,973 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 14:59:06,013 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:00:00,776 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:00:01,855 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:00:05,271 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:00:05,287 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:02:06,324 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:02:06,356 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:02:32,647 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:02:33,583 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:02:38,923 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:02:38,939 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:07:06,013 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:07:06,053 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:07:31,635 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:07:31,651 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:08:17,495 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:08:17,527 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:08:44,240 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:08:45,208 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:08:47,910 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:08:47,926 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:15:23,978 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:15:24,018 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:15:54,041 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:15:54,881 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:15:57,519 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:15:57,535 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:17:44,917 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:17:44,965 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:18:15,482 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:18:16,393 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:18:19,999 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:18:20,023 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:18:44,991 INFO o.T.OtusTest [main] false
+2021-06-22 15:18:44,991 INFO o.T.OtusTest [main] false
+2021-06-22 15:23:23,093 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:23:23,141 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:23:54,546 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:23:55,521 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:23:58,671 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:23:58,687 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:24:23,566 INFO o.T.OtusTest [main] false
+2021-06-22 15:24:23,566 INFO o.T.OtusTest [main] false
+2021-06-22 15:26:20,184 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:26:20,224 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:26:48,216 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:26:49,071 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:26:51,214 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:26:51,238 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:27:11,967 INFO o.T.OtusTest [main] true
+2021-06-22 15:27:11,967 INFO o.T.OtusTest [main] false
+2021-06-22 15:29:00,527 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:29:00,559 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:29:25,025 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:29:25,841 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:29:28,327 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:29:28,343 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:33:35,500 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:33:35,532 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:33:58,749 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:33:59,589 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:34:02,691 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:34:02,707 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:35:55,462 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:35:55,494 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:36:19,438 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:36:20,278 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:36:23,979 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:36:23,995 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:36:43,162 INFO o.T.OtusTest [main] true
+2021-06-22 15:44:58,716 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:44:58,748 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:45:25,226 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:45:26,009 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:45:29,227 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:45:29,235 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:45:46,932 INFO o.T.OtusTest [main] true
+2021-06-22 15:45:46,932 INFO o.T.OtusTest [main] Нет
+2021-06-22 15:51:19,129 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:51:19,145 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:51:36,167 INFO o.T.OtusTest [main] Нет
+2021-06-22 15:51:36,183 INFO o.T.OtusTest [main] true
+2021-06-22 15:51:53,277 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:51:53,285 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:52:11,010 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:52:11,026 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:52:26,248 INFO o.T.OtusTest [main] Нет
+2021-06-22 15:52:26,264 INFO o.T.OtusTest [main] true
+2021-06-22 15:52:50,447 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:52:50,447 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:53:49,717 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:53:49,732 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:54:08,338 INFO o.T.OtusTest [main] Нет
+2021-06-22 15:54:08,362 INFO o.T.OtusTest [main] true
+2021-06-22 15:54:09,081 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:54:09,689 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:54:12,087 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:54:12,103 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:54:24,295 INFO o.T.OtusTest [main] true
+2021-06-22 15:54:24,295 INFO o.T.OtusTest [main] Нет
+2021-06-22 15:55:55,846 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:55:55,862 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:56:12,442 INFO o.T.OtusTest [main] Нет
+2021-06-22 15:56:12,458 INFO o.T.OtusTest [main] true
+2021-06-22 15:56:13,193 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 15:56:13,809 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 15:56:16,423 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 15:56:16,439 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 15:56:31,167 INFO o.T.OtusTest [main] true
+2021-06-22 15:56:31,167 INFO o.T.OtusTest [main] Нет
+2021-06-22 16:05:55,125 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 16:05:55,140 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 16:06:16,340 INFO o.T.OtusTest [main] Нет
+2021-06-22 16:06:16,364 INFO o.T.OtusTest [main] false
+2021-06-22 16:06:17,043 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 16:06:17,675 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 16:06:21,664 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 16:06:21,680 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 16:06:39,092 INFO o.T.OtusTest [main] false
+2021-06-22 16:06:39,092 INFO o.T.OtusTest [main] Нет
+2021-06-22 16:21:44,501 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 16:21:44,517 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 16:22:06,480 INFO o.T.OtusTest [main] Нет
+2021-06-22 16:22:06,504 INFO o.T.OtusTest [main] false
+2021-06-22 16:22:07,168 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 16:22:07,759 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 16:22:10,837 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 16:22:10,853 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 16:22:25,708 INFO o.T.OtusTest [main] false
+2021-06-22 16:22:25,708 INFO o.T.OtusTest [main] Нет
+2021-06-22 17:50:48,742 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 17:50:48,758 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 17:51:06,080 INFO o.T.OtusTest [main] Нет
+2021-06-22 17:51:06,104 INFO o.T.OtusTest [main] false
+2021-06-22 17:51:06,767 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 17:51:07,367 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 17:51:10,485 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 17:51:10,501 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 17:51:25,220 INFO o.T.OtusTest [main] false
+2021-06-22 17:51:25,220 INFO o.T.OtusTest [main] Нет
+2021-06-22 18:11:59,779 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 18:11:59,795 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 18:12:19,753 INFO o.T.OtusTest [main] Нет
+2021-06-22 18:12:19,817 INFO o.T.OtusTest [main] false
+2021-06-22 18:12:20,513 INFO o.T.OtusTest [main] длина массива4
+2021-06-22 18:12:21,128 INFO o.T.OtusTest [main] длина массива5
+2021-06-22 18:12:23,743 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 18:12:23,759 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 18:12:37,632 INFO o.T.OtusTest [main] false
+2021-06-22 18:12:37,632 INFO o.T.OtusTest [main] Нет
+2021-06-22 18:24:32,948 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 18:24:32,964 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 18:24:34,779 INFO o.T.OtusTest [main] Драйвер поднят
+2021-06-22 18:24:55,301 INFO o.T.OtusTest [main] Драйвер опущен
+2021-06-22 18:24:55,333 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+2021-06-22 18:24:55,349 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
+2021-06-22 18:24:56,620 INFO o.T.OtusTest [main] Драйвер поднят
+2021-06-22 18:25:14,136 INFO o.T.OtusTest [main] Драйвер опущен
