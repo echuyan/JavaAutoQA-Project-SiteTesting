@@ -782,3 +782,134 @@
 2021-06-22 18:24:55,349 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\91.0.4472.101\chromedriver.exe
 2021-06-22 18:24:56,620 INFO o.T.OtusTest [main] Драйвер поднят
 2021-06-22 18:25:14,136 INFO o.T.OtusTest [main] Драйвер опущен
+2021-08-11 18:32:40,451 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-11 18:32:40,487 INFO i.g.b.w.WebDriverManager [main] Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2021-08-11 18:32:40,968 INFO i.g.b.w.Downloader [main] Downloading https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+2021-08-11 18:32:43,875 INFO i.g.b.w.Downloader [main] Extracting binary from compressed file chromedriver_win32.zip
+2021-08-11 18:32:43,986 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-11 18:32:46,417 INFO o.T.FutureEventsTest [main] Драйвер поднят
+2021-08-11 18:33:35,241 INFO o.T.FutureEventsTest [main] Драйвер опущен
+2021-08-11 18:34:29,246 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-11 18:34:29,278 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-11 18:34:30,997 INFO o.T.FutureEventsTest [main] Драйвер поднят
+2021-08-11 18:34:45,359 INFO o.T.FutureEventsTest [main] Драйвер опущен
+2021-08-11 19:22:19,947 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-11 19:22:19,975 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-11 19:22:21,907 INFO o.T.FutureEventsTest [main] Драйвер поднят
+2021-08-11 19:22:32,933 INFO o.T.FutureEventsTest [main] Драйвер опущен
+2021-08-11 19:24:20,797 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-11 19:24:20,828 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-11 19:24:22,549 INFO o.T.FutureEventsTest [main] Драйвер поднят
+2021-08-11 19:24:31,881 INFO o.T.FutureEventsTest [main] Драйвер опущен
+2021-08-11 19:32:29,929 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-11 19:32:29,957 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-11 19:32:31,668 INFO o.T.FutureEventsTest [main] Драйвер поднят
+2021-08-11 19:32:39,638 INFO o.T.FutureEventsTest [main] Драйвер опущен
+2021-08-11 19:36:14,663 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-11 19:36:14,692 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-11 19:36:16,409 INFO o.T.FutureEventsTest [main] Драйвер поднят
+2021-08-11 19:36:25,768 INFO o.T.FutureEventsTest [main] Драйвер опущен
+2021-08-15 15:10:17,295 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 15:10:17,326 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 15:10:19,966 INFO e.T.CheckEventCardsTest [main] Драйвер поднят
+2021-08-15 15:10:32,857 INFO e.T.CheckEventCardsTest [main] Драйвер опущен
+2021-08-15 15:10:32,889 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 15:10:32,905 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 15:10:34,702 INFO e.T.FutureEventsTest [main] Драйвер поднят
+2021-08-15 15:10:46,382 INFO e.T.FutureEventsTest [main] Драйвер опущен
+2021-08-15 15:11:12,432 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 15:11:12,448 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 15:11:14,192 INFO e.T.CheckEventCardsTest [main] Драйвер поднят
+2021-08-15 15:11:30,679 INFO e.T.CheckEventCardsTest [main] Драйвер опущен
+2021-08-15 18:10:26,944 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 18:10:26,975 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 18:10:28,864 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-15 18:10:37,853 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-15 18:10:37,962 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-15 18:13:17,998 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 18:13:18,014 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 18:13:19,689 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-15 18:13:49,065 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-15 18:13:49,310 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-15 18:46:51,383 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 18:46:51,407 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 18:46:53,272 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-15 18:47:06,758 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-15 18:47:06,782 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-15 18:47:06,806 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-15 18:47:06,822 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-15 18:47:06,838 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-15 18:47:07,029 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-15 18:55:19,596 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 18:55:19,627 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 18:55:21,367 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-15 18:55:37,223 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-15 18:55:37,247 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-15 18:55:37,264 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-15 18:55:37,280 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-15 18:55:37,280 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-15 18:55:38,070 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-15 18:56:33,643 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 18:56:33,659 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 18:56:35,507 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-15 18:56:51,240 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-15 18:56:51,256 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-15 18:56:51,272 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-15 18:56:51,288 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-15 18:56:51,304 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-15 18:56:51,846 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-15 18:56:51,870 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-15 18:56:51,886 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-15 18:56:51,902 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-15 18:56:51,918 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-15 18:56:51,934 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-15 18:56:51,950 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-15 18:56:51,966 INFO e.T.FutureEventsTest [main] Natalya Lukyanenko
+2021-08-15 18:56:51,987 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-15 18:56:52,001 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:56:52,017 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-15 18:56:52,033 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:56:52,049 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:56:52,065 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-15 18:56:52,081 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:56:52,097 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-15 18:56:52,129 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:56:52,145 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-15 18:56:52,161 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-15 18:56:52,177 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-15 18:56:52,193 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-15 18:56:52,209 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-15 18:56:52,289 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-15 18:59:12,965 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-15 18:59:12,981 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-15 18:59:14,640 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-15 18:59:34,483 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-15 18:59:34,507 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-15 18:59:34,523 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-15 18:59:34,539 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-15 18:59:34,555 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-15 18:59:35,094 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-15 18:59:35,110 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-15 18:59:35,125 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-15 18:59:35,141 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-15 18:59:35,157 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-15 18:59:35,172 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-15 18:59:35,188 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-15 18:59:35,204 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-15 18:59:35,219 INFO e.T.FutureEventsTest [main] Alena Ananeva
+2021-08-15 18:59:35,239 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-15 18:59:35,256 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:59:35,271 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-15 18:59:35,287 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:59:35,318 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:59:35,334 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-15 18:59:35,349 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:59:35,365 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-15 18:59:35,381 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-15 18:59:35,396 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-15 18:59:35,412 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-15 18:59:35,436 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-15 18:59:35,445 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-15 18:59:35,460 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-15 18:59:35,556 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен

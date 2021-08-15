@@ -1,7 +1,6 @@
-package otus.Pages;
+package epam.Pages;
 
 import net.thucydides.core.pages.PageObject;
-import org.apache.bcel.generic.SWITCH;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
@@ -14,7 +13,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import otus.Tests.OtusTest;
+import epam.Tests.FutureEventsTest;
 import java.util.List;
 import java.util.Iterator;
 
@@ -24,7 +23,7 @@ import java.util.Properties;
 public class OtusPersonalData extends PageObject {
     private WebDriver driver;
     private WebDriverWait wait;
-    private Logger logger = LogManager.getLogger(OtusTest.class);
+    private Logger logger = LogManager.getLogger(FutureEventsTest.class);
     Actions action;
 
 

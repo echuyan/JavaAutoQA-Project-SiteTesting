@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DZ4-Chuyan-POM-WDF" />
+        <module name="ChuyanProjectWork" />
       </profile>
     </annotationProcessing>
   </component>
