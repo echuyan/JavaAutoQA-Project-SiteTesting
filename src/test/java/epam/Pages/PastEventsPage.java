@@ -58,6 +58,10 @@ public class PastEventsPage extends PageObject {
         return wait.until(ExpectedConditions.visibilityOf(regClosed)).isDisplayed();
     }
 
+
+    /**
+     * Проверка Карточек мероприятий
+     */
     public void checkCards()
     {
         List<WebElement> lstLang = driver.findElements(By.ByXPath.xpath("//div[@class='evnt-card-wrapper']//descendant::p[@class='language']//child::span"));
