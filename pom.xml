@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru-otus</groupId>
-    <artifactId>DZ4-Chuyan-POM-WDF</artifactId>
+    <artifactId>ChuyanProjectWork</artifactId>
     <version>1.0-SNAPSHOT</version>
 
            <properties>
@@ -31,9 +31,20 @@
             <maven-compiler-plugin.source>1.8</maven-compiler-plugin.source>
             <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
             <archunit.version>0.14.1</archunit.version>
+               <java.version>11</java.version>
+               <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
+               <aspectj.version>1.8.10</aspectj.version>
+               <allure-junit4.version>2.14.0</allure-junit4.version>
+               <allure.version>2.13.2</allure.version>
+               <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         </properties>
 
         <dependencies>
+            <dependency>
+                <groupId>io.qameta.allure</groupId>
+                <artifactId>allure-junit4</artifactId>
+                <version>${allure-junit4.version}</version>
+            </dependency>
             <dependency>
                 <groupId>net.serenity-bdd</groupId>
                 <artifactId>serenity-core</artifactId>
@@ -135,6 +146,16 @@
                 <scope>test</scope>
             </dependency>
             <dependency>
+                <groupId>org.apache.logging.log4j</groupId>
+                <artifactId>log4j-api</artifactId>
+                <version>2.4.1</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.logging.log4j</groupId>
+                <artifactId>log4j-core</artifactId>
+                <version>2.4.1</version>
+            </dependency>
+            <dependency>
                 <groupId>org.seleniumhq.selenium</groupId>
                 <artifactId>selenium-support</artifactId>
                 <version>3.141.59</version>
@@ -144,6 +165,16 @@
 
         <build>
             <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-javadoc-plugin</artifactId>
+                    <version>3.0.0</version>
+                    <configuration>
+                        <source>1.8</source>
+                        <target>1.8</target>
+                    </configuration>
+                 </plugin>
+
                 <plugin>
                     <groupId>net.serenity-bdd.maven.plugins</groupId>
                     <artifactId>serenity-maven-plugin</artifactId>
@@ -158,6 +189,7 @@
                         </execution>
                     </executions>
                 </plugin>
+
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
@@ -167,9 +199,48 @@
                         <target>${maven-compiler-plugin.target}</target>
                     </configuration>
                 </plugin>
+
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>${maven-surefire-plugin.version}</version>
+                    <configuration>
+                        <testFailureIgnore>false</testFailureIgnore>
+                        <argLine>-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"</argLine>
+                        <systemPropertyVariables>
+                            <allure.results.directory>${project.build.directory}/allure-results</allure.results.directory>
+                        </systemPropertyVariables>
+
+                        <properties>
+                            <property>
+                                <name>listener</name>
+                                <value>io.qameta.allure.junit4.AllureJunit4</value>
+                            </property>
+                        </properties>
+
+                    </configuration>
+                    <dependencies>
+                        <dependency>
+                            <groupId>org.aspectj</groupId>
+                            <artifactId>aspectjweaver</artifactId>
+                            <version>${aspectj.version}</version>
+                        </dependency>
+                    </dependencies>
+                </plugin>
+
+                <plugin>
+                    <groupId>io.qameta.allure</groupId>
+                    <artifactId>allure-maven</artifactId>
+                    <version>2.10.0</version>
+                    <configuration>
+                        <reportVersion>${allure.version}</reportVersion>
+                    </configuration>
+                </plugin>
+
+
             </plugins>
         </build>
 
 
 
-</project>
+</project> 
