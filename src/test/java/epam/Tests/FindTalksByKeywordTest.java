@@ -2,7 +2,6 @@ package epam.Tests;
 
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
-import epam.Pages.PastEventsPage;
 import factory.Browsers;
 import factory.WebDriverFactory;
 import org.apache.logging.log4j.LogManager;
@@ -17,8 +16,8 @@ import java.io.InputStream;
 import java.util.concurrent.TimeUnit;
 
 
-public class UpcomingEventsDatesValidationTest {
-    private Logger logger = LogManager.getLogger(UpcomingEventsDatesValidationTest.class);
+public class FindTalksByKeywordTest {
+    private Logger logger = LogManager.getLogger(FindTalksByKeywordTest.class);
     public WebDriver wd;
     InputStream inputStream;
 
@@ -38,14 +37,14 @@ public class UpcomingEventsDatesValidationTest {
     }
 
   /**
-   * Валидация дат предстоящих мероприятий:
-   * 1 Пользователь переходит на вкладку events
-   *2 Пользователь нажимает на Upcoming Events
-   *3 На странице отображаются карточки предстоящих мероприятий.
-   *4 Даты проведения мероприятий больше или равны текущей дате (или текущая дата находится в диапазоне дат проведения)
+   * Поиск докладов по ключевому слову:
+   * 1 Пользователь переходит на вкладку VIDEO - Talks Library
+   * 2 Пользователь вводит ключевое слово QA в поле поиска
+   * 3 На странице отображаются доклады, содержащие в названии ключевое слово поиска
+   * *Дополнительно: Тестовое покрытие может быть расширено для функциональности фильтрации
    */
      @Test
-    public void UpcomingEventsDatesValidationTest() {
+    public void FindTalksByKeywordTest() {
 
         /**
          *  создаем экземпляр главной страницы сайта

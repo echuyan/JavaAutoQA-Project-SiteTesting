@@ -2,7 +2,6 @@ package epam.Tests;
 
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
-import epam.Pages.PastEventsPage;
 import factory.Browsers;
 import factory.WebDriverFactory;
 import org.apache.logging.log4j.LogManager;
@@ -17,8 +16,8 @@ import java.io.InputStream;
 import java.util.concurrent.TimeUnit;
 
 
-public class UpcomingEventsDatesValidationTest {
-    private Logger logger = LogManager.getLogger(UpcomingEventsDatesValidationTest.class);
+public class FilterTalksByCategoryTest {
+    private Logger logger = LogManager.getLogger(FilterTalksByCategoryTest.class);
     public WebDriver wd;
     InputStream inputStream;
 
@@ -38,14 +37,14 @@ public class UpcomingEventsDatesValidationTest {
     }
 
   /**
-   * Валидация дат предстоящих мероприятий:
-   * 1 Пользователь переходит на вкладку events
-   *2 Пользователь нажимает на Upcoming Events
-   *3 На странице отображаются карточки предстоящих мероприятий.
-   *4 Даты проведения мероприятий больше или равны текущей дате (или текущая дата находится в диапазоне дат проведения)
+   * Фильтрация докладов по категориям:
+   * 1 Пользователь переходит на вкладку Talks Library
+   * 2 Пользователь нажимает на More Filters
+   * 3 Пользователь выбирает: Category – Testing, Location – Belarus, Language – English, На вкладке фильтров
+   * 4 На странице отображаются карточки соответствующие правилам выбранных фильтров
    */
      @Test
-    public void UpcomingEventsDatesValidationTest() {
+    public void FilterTalksByCategoryTest() {
 
         /**
          *  создаем экземпляр главной страницы сайта

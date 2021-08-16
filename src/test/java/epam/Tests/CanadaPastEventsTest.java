@@ -2,7 +2,6 @@ package epam.Tests;
 
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
-import epam.Pages.PastEventsPage;
 import factory.Browsers;
 import factory.WebDriverFactory;
 import org.apache.logging.log4j.LogManager;
@@ -17,8 +16,8 @@ import java.io.InputStream;
 import java.util.concurrent.TimeUnit;
 
 
-public class UpcomingEventsDatesValidationTest {
-    private Logger logger = LogManager.getLogger(UpcomingEventsDatesValidationTest.class);
+public class CanadaPastEventsTest {
+    private Logger logger = LogManager.getLogger(CanadaPastEventsTest.class);
     public WebDriver wd;
     InputStream inputStream;
 
@@ -38,14 +37,14 @@ public class UpcomingEventsDatesValidationTest {
     }
 
   /**
-   * Валидация дат предстоящих мероприятий:
+   * Просмотр прошедших мероприятий в Канаде:
    * 1 Пользователь переходит на вкладку events
-   *2 Пользователь нажимает на Upcoming Events
-   *3 На странице отображаются карточки предстоящих мероприятий.
-   *4 Даты проведения мероприятий больше или равны текущей дате (или текущая дата находится в диапазоне дат проведения)
+   * 2 Пользователь нажимает на Past Events
+   * 3 Пользователь нажимает на Location в блоке фильтров и выбирает Canada в выпадающем списке
+   * 4 На странице отображаются карточки прошедших мероприятий. Количество карточек равно счетчику на кнопке Past Events. Даты проведенных мероприятий меньше текущей даты.
    */
      @Test
-    public void UpcomingEventsDatesValidationTest() {
+    public void CanadaPastEventsTest() {
 
         /**
          *  создаем экземпляр главной страницы сайта

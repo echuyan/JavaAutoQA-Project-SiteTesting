@@ -55,7 +55,6 @@ public class CheckPastEventCardsTest {
          */
 
         MainPage mainP = new MainPage(wd);
-        //открываем форму логина
         mainP.openEvents(wd);
 
         /**
