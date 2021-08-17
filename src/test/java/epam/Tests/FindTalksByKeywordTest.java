@@ -2,6 +2,7 @@ package epam.Tests;
 
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
+import epam.Pages.VideoTalksLibraryPage;
 import factory.Browsers;
 import factory.WebDriverFactory;
 import org.apache.logging.log4j.LogManager;
@@ -17,17 +18,17 @@ import java.util.concurrent.TimeUnit;
 
 
 public class FindTalksByKeywordTest {
-    private Logger logger = LogManager.getLogger(FindTalksByKeywordTest.class);
+    private Logger logger = LogManager.getLogger(FilterTalksByCategoryTest.class);
     public WebDriver wd;
     InputStream inputStream;
 
     @Before
     public void setup() {
-    //инициализируем драйвер
-     wd = WebDriverFactory.create(Browsers.CHROME);
-     wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-     wd.manage().window().maximize();
-     logger.info("Драйвер поднят");
+        //инициализируем драйвер
+        wd = WebDriverFactory.create(Browsers.CHROME);
+        wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        wd.manage().window().maximize();
+        logger.info("Драйвер поднят");
     }
 
     @After
@@ -36,35 +37,34 @@ public class FindTalksByKeywordTest {
         logger.info("Драйвер опущен");
     }
 
-  /**
-   * Поиск докладов по ключевому слову:
-   * 1 Пользователь переходит на вкладку VIDEO - Talks Library
-   * 2 Пользователь вводит ключевое слово QA в поле поиска
-   * 3 На странице отображаются доклады, содержащие в названии ключевое слово поиска
-   * *Дополнительно: Тестовое покрытие может быть расширено для функциональности фильтрации
-   */
-     @Test
-    public void FindTalksByKeywordTest() {
+    /**
+     *Поиск докладов по ключевому слову:
+     *1 Пользователь переходит на вкладку VIDEO - Talks Library
+     *2 Пользователь вводит ключевое слово QA в поле поиска
+     *3 На странице отображаются доклады, содержащие в названии ключевое слово поиска
+     */
+    @Test
+    public void FilterTalksByKeywordTest() {
 
         /**
          *  создаем экземпляр главной страницы сайта
          */
 
         MainPage mainP = new MainPage(wd);
-        mainP.openEvents(wd);
+        mainP.openVideo(wd);
 
         /**
-        *Создаем экземпляр страницы Events, проверяем ее открытие
-        */
-         EventsPage  eventsP = new EventsPage (wd);
-        Assert.assertTrue(eventsP.isPageOpened());
-
-
-
-        /**
-        * Проверяем даты будущих мероприятий
+         *Создаем экземпляр страницы Video, проверяем ее открытие
          */
-        eventsP.checkDates();
+        VideoTalksLibraryPage videoTalksP = new VideoTalksLibraryPage (wd);
+        Assert.assertTrue(videoTalksP.isPageOpened());
+
+
+
+        /**
+         * Проверяем Фильтрацию по Ключевому слову QA
+         */
+        videoTalksP.checkFiltrationKeyword();
 
     }
 }

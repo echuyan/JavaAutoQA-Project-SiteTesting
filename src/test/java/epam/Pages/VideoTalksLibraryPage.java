@@ -99,6 +99,14 @@ public class VideoTalksLibraryPage extends PageObject {
     @FindBy(xpath =   "//div[@class='evnt-talk-details location evnt-now-past-talk']//span[contains(.,'Belarus')]")
     private WebElement cardAddressBelarus;
 
+    //search field
+    @FindBy(xpath = "//input[@placeholder='Search by Talk Name']")
+    private WebElement searchField;
+
+    //event title
+    @FindBy(xpath ="//h1[@class='evnt-talk-title']")
+    private WebElement eventTitle;
+
 
     //Конструктор
         public VideoTalksLibraryPage(WebDriver driver){
@@ -115,7 +123,7 @@ public class VideoTalksLibraryPage extends PageObject {
 
 
     /**
-     * Проверка количества будущих мероприятий
+     * Проверка фильтрации (Английский язык, Беларусь, Тестирование)
      */
    public void checkFiltration()
     {
@@ -134,15 +142,16 @@ public class VideoTalksLibraryPage extends PageObject {
         wait.until(ExpectedConditions.visibilityOf(moreFilters));
 
         List<WebElement> lst = driver.findElements(By.ByXPath.xpath("//div[@class='evnt-talk-card']/a"));
-        logger.info("Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: "+lst.size());
+        logger.info("Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: "+lst.size());
         int i = lst.size();
         int j =0;
         for (j=0;j<i;j++) {
            action.moveToElement(lst.get(j)).click().build().perform();
            wait.until(ExpectedConditions.visibilityOf(back));
-           Assert.assertEquals("Мероприятие не на английском языке!","ENGLISH",cardLanguage.getText());
-           Assert.assertTrue("Мероприятие не принадлежит категории Тестирование!",cardLabelTesting.isDisplayed());
-           Assert.assertTrue("Мероприятие проводится не в Беларуси!",cardAddressBelarus.isDisplayed());
+            Assert.assertEquals("Мероприятие не на английском языке!","ENGLISH",cardLanguage.getText());
+            Assert.assertTrue("Мероприятие не принадлежит категории Тестирование!",cardLabelTesting.isDisplayed());
+            Assert.assertTrue("Мероприятие проводится не в Беларуси!",cardAddressBelarus.isDisplayed());
+
 
            back.click();
 
@@ -153,5 +162,35 @@ public class VideoTalksLibraryPage extends PageObject {
     }
 
 
-   }
+    /**
+     * Проверка фильтрации (QA)
+     */
+    public void checkFiltrationKeyword()
+    {
+        if (close.isDisplayed()) {close.click();}
+        Actions action = new Actions(driver);
+        searchField.sendKeys("QA");
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.ByXPath.xpath("//div[@class='evnt-global-loader']")));
+        wait.until(ExpectedConditions.visibilityOf(foundResults));
+
+        List<WebElement> lst = driver.findElements(By.ByXPath.xpath("//div[@class='evnt-talk-card']/a"));
+
+        logger.info("Найдено карточек с ключевым словом QA: "+lst.size());
+        int i = lst.size();
+        int j =0;
+        for (j=0;j<i;j++) {
+            action.moveToElement(lst.get(j)).click().build().perform();
+            wait.until(ExpectedConditions.visibilityOf(back));
+            wait.until(ExpectedConditions.visibilityOf(eventTitle));
+            logger.info(eventTitle.getText());
+            Assert.assertTrue("Название мероприятия не соответсвует шаблону!",eventTitle.getText().contains("QA"));
+
+            back.click();
+
+            wait.until(ExpectedConditions.visibilityOf(foundResults));
+            lst = driver.findElements(By.ByXPath.xpath("//div[@class='evnt-talk-card']/a"));
+        }
+
+    }
+}
 
