@@ -1061,3 +1061,241 @@
 2021-08-15 21:04:00,485 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
 2021-08-15 21:04:00,486 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
 2021-08-15 21:04:00,582 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер опущен
+2021-08-16 23:04:34,081 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:04:34,113 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:04:36,177 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-16 23:04:48,459 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-16 23:04:48,475 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-16 23:04:48,475 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-16 23:04:48,585 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-16 23:04:48,632 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:04:48,648 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:04:50,925 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-16 23:04:59,787 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-16 23:04:59,819 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-16 23:04:59,859 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-16 23:04:59,875 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-16 23:04:59,891 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-16 23:05:00,556 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-16 23:05:00,572 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-16 23:05:00,588 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-16 23:05:00,604 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-16 23:05:00,620 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-16 23:05:00,636 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-16 23:05:00,652 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-16 23:05:00,668 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-16 23:05:00,692 INFO e.T.FutureEventsTest [main] Vasilii Komolov
+2021-08-16 23:05:00,708 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-16 23:05:00,724 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-16 23:05:00,740 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-16 23:05:00,756 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-16 23:05:00,772 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-16 23:05:00,788 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-16 23:05:00,804 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-16 23:05:00,828 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-16 23:05:00,844 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-16 23:05:00,860 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-16 23:05:00,884 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-16 23:05:00,900 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-16 23:05:00,916 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-16 23:05:00,932 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-16 23:05:01,036 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-16 23:05:01,060 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:05:01,076 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:05:02,577 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-16 23:05:10,683 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-16 23:05:10,683 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-16 23:05:10,683 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-16 23:05:10,756 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-16 23:05:10,772 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:05:10,803 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:05:12,246 INFO e.T.FindTalksByKeywordTest [main] Драйвер поднят
+2021-08-16 23:05:19,715 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-16 23:05:19,715 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-16 23:05:19,715 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-16 23:05:19,787 INFO e.T.FindTalksByKeywordTest [main] Драйвер опущен
+2021-08-16 23:05:19,819 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:05:19,834 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:05:21,213 INFO e.T.FutureEventsTest [main] Драйвер поднят
+2021-08-16 23:05:27,772 INFO e.T.FutureEventsTest [main] Драйвер опущен
+2021-08-16 23:05:27,788 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:05:27,804 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:05:29,125 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер поднят
+2021-08-16 23:05:38,826 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-16 23:05:38,826 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-16 23:05:38,826 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-16 23:05:38,894 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер опущен
+2021-08-16 23:27:58,048 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:27:58,079 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:27:59,891 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-16 23:28:08,729 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-16 23:31:01,632 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:31:01,663 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:31:03,634 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-16 23:31:42,348 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-16 23:36:53,362 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:36:53,386 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:36:55,294 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-16 23:37:09,351 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-16 23:44:28,155 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 92.0.4515.107 (since Google Chrome 92 is installed in your machine)
+2021-08-16 23:44:28,171 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\елена\.m2\repository\webdriver\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-16 23:44:29,922 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-16 23:44:42,540 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-16 23:44:42,548 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-16 23:44:42,620 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-17 00:13:58,911 INFO e.T.CanadaPastEventsTest [main] ������� ������
+2021-08-17 00:14:35,473 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-17 00:14:35,487 INFO e.T.FutureEventsTest [main] ����2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-17 00:14:39,623 INFO e.T.CanadaPastEventsTest [main] ������� ������
+2021-08-17 00:14:41,306 INFO e.T.CheckPastEventCardsTest [main] ������� ������
+2021-08-17 00:14:55,031 INFO e.T.FutureEventsTest [main] ������� �� �������� ��������� � ��������� ����� �����������: 12
+2021-08-17 00:14:55,055 INFO e.T.FutureEventsTest [main] ������� �� �������� ��������� � ��������� �������� �����������: 12
+2021-08-17 00:14:55,079 INFO e.T.FutureEventsTest [main] ������� �� �������� ��������� � ��������� ���� �����������: 12
+2021-08-17 00:14:55,103 INFO e.T.FutureEventsTest [main] ������� �� �������� ��������� � ��������� ������� �����������: 12
+2021-08-17 00:14:55,119 INFO e.T.FutureEventsTest [main] ������� �� �������� �������� �����������: 22
+2021-08-17 00:14:55,667 INFO e.T.FutureEventsTest [main] ������ ��������:
+
+2021-08-17 00:14:55,675 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-17 00:14:55,690 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-17 00:14:55,706 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-17 00:14:55,722 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-17 00:14:55,737 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-17 00:14:55,753 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-17 00:14:55,769 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-17 00:14:55,784 INFO e.T.FutureEventsTest [main] Natalya Lukyanenko
+2021-08-17 00:14:55,800 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-17 00:14:55,815 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:14:55,833 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-17 00:14:55,857 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:14:55,873 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:14:55,889 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-17 00:14:55,905 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:14:55,921 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-17 00:14:55,934 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:14:55,950 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-17 00:14:55,966 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-17 00:14:55,975 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-17 00:14:55,990 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-17 00:14:56,006 INFO e.T.FutureEventsTest [main] ��������� �������
+2021-08-17 00:14:56,124 INFO e.T.CheckPastEventCardsTest [main] ������� ������
+2021-08-17 00:14:57,621 INFO e.T.FilterTalksByCategoryTest [main] ������� ������
+2021-08-17 00:15:07,732 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-17 00:15:07,740 INFO e.T.FutureEventsTest [main] ����1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-17 00:15:07,740 INFO e.T.FutureEventsTest [main] ����2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-17 00:15:07,813 INFO e.T.FilterTalksByCategoryTest [main] ������� ������
+2021-08-17 00:15:09,248 INFO e.T.FindTalksByKeywordTest [main] ������� ������
+2021-08-17 00:15:43,437 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-17 00:15:43,445 INFO e.T.FutureEventsTest [main] ����1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-17 00:15:43,445 INFO e.T.FutureEventsTest [main] ����2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-17 00:15:43,517 INFO e.T.FindTalksByKeywordTest [main] ������� ������
+2021-08-17 00:15:45,048 INFO e.T.FutureEventsTest [main] ������� ������
+2021-08-17 00:16:16,533 INFO e.T.FutureEventsTest [main] ������� ������
+2021-08-17 00:16:17,916 INFO e.T.UpcomingEventsDatesValidationTest [main] ������� ������
+2021-08-17 00:16:28,559 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-17 00:16:28,559 INFO e.T.FutureEventsTest [main] ����1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-17 00:16:28,559 INFO e.T.FutureEventsTest [main] ����2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-17 00:16:28,647 INFO e.T.UpcomingEventsDatesValidationTest [main] ������� ������
+2021-08-17 00:21:20,226 INFO e.T.FindTalksByKeywordTest [main] ������� ������
+2021-08-17 00:21:26,004 INFO e.T.FutureEventsTest [main] ������� ������
+2021-08-17 00:21:28,524 INFO e.T.UpcomingEventsDatesValidationTest [main] ������� ������
+2021-08-17 00:22:54,582 INFO e.T.CheckPastEventCardsTest [main] ������� ������
+2021-08-17 00:23:10,741 INFO e.T.FutureEventsTest [main] ������� �� �������� ��������� � ��������� ����� �����������: 12
+2021-08-17 00:23:10,765 INFO e.T.FutureEventsTest [main] ������� �� �������� ��������� � ��������� �������� �����������: 12
+2021-08-17 00:23:10,813 INFO e.T.FutureEventsTest [main] ������� �� �������� ��������� � ��������� ���� �����������: 12
+2021-08-17 00:23:10,837 INFO e.T.FutureEventsTest [main] ������� �� �������� ��������� � ��������� ������� �����������: 12
+2021-08-17 00:23:10,861 INFO e.T.FutureEventsTest [main] ������� �� �������� �������� �����������: 22
+2021-08-17 00:23:11,709 INFO e.T.FutureEventsTest [main] ������ ��������:
+
+2021-08-17 00:23:11,725 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-17 00:23:11,742 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-17 00:23:11,766 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-17 00:23:11,782 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-17 00:23:11,798 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-17 00:23:11,822 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-17 00:23:11,838 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-17 00:23:11,854 INFO e.T.FutureEventsTest [main] Vasilii Komolov
+2021-08-17 00:23:11,871 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-17 00:23:11,895 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:23:11,911 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-17 00:23:11,927 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:23:11,943 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:23:11,959 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-17 00:23:11,983 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:23:11,999 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-17 00:23:12,015 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 00:23:12,039 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-17 00:23:12,079 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-17 00:23:12,095 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-17 00:23:12,119 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-17 00:23:12,135 INFO e.T.FutureEventsTest [main] ��������� �������
+2021-08-17 00:23:12,247 INFO e.T.CheckPastEventCardsTest [main] ������� ������
+2021-08-17 00:23:15,023 INFO e.T.FilterTalksByCategoryTest [main] ������� ������
+2021-08-17 00:23:51,039 INFO e.T.FilterTalksByCategoryTest [main] ������� ������
+2021-08-17 00:23:53,027 INFO e.T.FindTalksByKeywordTest [main] ������� ������
+2021-08-17 00:24:16,894 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-17 00:24:16,942 INFO e.T.FutureEventsTest [main] ����1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-17 00:24:16,942 INFO e.T.FutureEventsTest [main] ����2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-17 00:24:17,025 INFO e.T.FindTalksByKeywordTest [main] ������� ������
+2021-08-17 00:24:18,588 INFO e.T.FutureEventsTest [main] ������� ������
+2021-08-17 00:24:45,050 INFO e.T.FutureEventsTest [main] ������� ������
+2021-08-17 00:24:46,460 INFO e.T.UpcomingEventsDatesValidationTest [main] ������� ������
+2021-08-17 00:25:19,927 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-17 00:25:19,927 INFO e.T.FutureEventsTest [main] ����1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-17 00:25:19,943 INFO e.T.FutureEventsTest [main] ����2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-17 00:25:20,046 INFO e.T.UpcomingEventsDatesValidationTest [main] ������� ������
+2021-08-17 14:52:51,316 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 14:52:59,275 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 15:10:46,743 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 15:11:24,026 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 15:35:38,848 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 15:35:57,800 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 15:35:58,988 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:05:51,830 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:06:06,502 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 16:06:07,671 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:07:07,947 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:07:27,363 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 16:07:28,511 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:10:14,335 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:10:34,376 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:11:20,623 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:11:37,483 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:13:18,895 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:13:40,972 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 16:13:44,783 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:14:37,928 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:14:53,958 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 16:14:55,126 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:19:15,996 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:19:38,908 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 16:19:40,941 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:21:14,308 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:21:28,764 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 16:21:34,439 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 16:56:38,724 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 16:56:55,247 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 16:57:04,991 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 17:01:51,614 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 17:02:02,944 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 17:02:14,296 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 17:21:20,443 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 17:21:33,604 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 17:21:44,017 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 17:24:43,440 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 17:24:59,567 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 17:25:09,592 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 17:29:08,232 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 17:29:19,522 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 17:32:42,704 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 17:32:54,229 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 17:33:18,181 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 17:36:41,066 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 17:37:08,282 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 17:37:10,375 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 17:46:42,378 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 17:46:54,224 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 17:47:15,991 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 17:52:37,296 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 17:52:50,759 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями в Беларуси на английском языке по тематике Тестирования: 4
+2021-08-17 17:53:18,422 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен

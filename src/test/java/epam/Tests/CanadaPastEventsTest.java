@@ -2,8 +2,11 @@ package epam.Tests;
 
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
+import epam.Pages.PastEventsPage;
 import factory.Browsers;
 import factory.WebDriverFactory;
+import io.qameta.allure.Description;
+import io.qameta.allure.junit4.DisplayName;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.After;
@@ -44,6 +47,8 @@ public class CanadaPastEventsTest {
    * 4 На странице отображаются карточки прошедших мероприятий. Количество карточек равно счетчику на кнопке Past Events. Даты проведенных мероприятий меньше текущей даты.
    */
      @Test
+     @DisplayName("Check past events in Canada")
+
     public void CanadaPastEventsTest() {
 
         /**
@@ -61,12 +66,22 @@ public class CanadaPastEventsTest {
 
 
 
-        /**
-        * Проверяем даты будущих мероприятий
-         */
-        eventsP.checkDates();
+         /**
+          *Создаем экземпляр страницы Past Events, проверяем ее открытие
+          */
+         eventsP.openPastEvents();
+         PastEventsPage pastEvents = new PastEventsPage(wd);
+         Assert.assertTrue(pastEvents.isPageOpened());
 
-    }
+         /**
+          * Проверяем прошедшие канадские мероприятия
+          */
+
+         pastEvents.checkCanadaEvents();
+
+
+
+     }
 }
 
 

@@ -11,7 +11,7 @@
            <properties>
             <maven.compiler.source>8</maven.compiler.source>
             <maven.compiler.target>8</maven.compiler.target>
-            <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
+
             <webdrivermanager.version>3.8.1</webdrivermanager.version>
             <selenium-java.version>3.141.59</selenium-java.version>
             <junit.version>4.12</junit.version>
@@ -139,12 +139,7 @@
                 <version>${hamcrest.version}</version>
                 <scope>test</scope>
             </dependency>
-            <dependency>
-                <groupId>org.apache.logging.log4j</groupId>
-                <artifactId>log4j-slf4j-impl</artifactId>
-                <version>${log4j-slf4j-impl.version}</version>
-                <scope>test</scope>
-            </dependency>
+
             <dependency>
                 <groupId>org.apache.logging.log4j</groupId>
                 <artifactId>log4j-api</artifactId>
@@ -171,7 +166,7 @@
                     <version>3.0.0</version>
                     <configuration>
                         <source>1.8</source>
-                        <target>1.8</target>
+
                     </configuration>
                  </plugin>
 
@@ -205,6 +200,7 @@
                     <artifactId>maven-surefire-plugin</artifactId>
                     <version>${maven-surefire-plugin.version}</version>
                     <configuration>
+                        <useSystemClassLoader>false</useSystemClassLoader>
                         <testFailureIgnore>false</testFailureIgnore>
                         <argLine>-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"</argLine>
                         <systemPropertyVariables>
@@ -236,11 +232,6 @@
                         <reportVersion>${allure.version}</reportVersion>
                     </configuration>
                 </plugin>
-
-
             </plugins>
         </build>
-
-
-
-</project> 
+</project>
