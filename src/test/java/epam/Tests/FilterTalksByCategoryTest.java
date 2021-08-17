@@ -2,6 +2,7 @@ package epam.Tests;
 
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
+import epam.Pages.VideoTalksLibraryPage;
 import factory.Browsers;
 import factory.WebDriverFactory;
 import org.apache.logging.log4j.LogManager;
@@ -51,20 +52,20 @@ public class FilterTalksByCategoryTest {
          */
 
         MainPage mainP = new MainPage(wd);
-        mainP.openEvents(wd);
+        mainP.openVideo(wd);
 
         /**
-        *Создаем экземпляр страницы Events, проверяем ее открытие
+        *Создаем экземпляр страницы Video, проверяем ее открытие
         */
-         EventsPage  eventsP = new EventsPage (wd);
-        Assert.assertTrue(eventsP.isPageOpened());
+         VideoTalksLibraryPage videoTalksP = new VideoTalksLibraryPage (wd);
+        Assert.assertTrue(videoTalksP.isPageOpened());
 
 
 
         /**
-        * Проверяем даты будущих мероприятий
+        * Проверяем Фильтрацию по Category – Testing, Location – Belarus, Language – English,
          */
-        eventsP.checkDates();
+        videoTalksP.checkFiltration();
 
     }
 }

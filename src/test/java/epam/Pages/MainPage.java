@@ -17,12 +17,22 @@ public class MainPage extends PageObject {
     @FindBy(xpath="//a[@class='nav-link'][contains(.,'Events')]")
     private WebElement eventsTab;
 
+    //Вкладка Video
+       @FindBy(xpath="//a[@class='nav-link'][contains(.,'Video')]")
+       private WebElement videoTab;
+
+       // кнопка акцепта куки
+       @FindBy(xpath="//div[@id='onetrust-banner-sdk']//descendant::button[@id='onetrust-accept-btn-handler']")
+       private WebElement acceptCookies;
+
+
 
     //конструктор
     public MainPage(WebDriver driver){
         this.driver = driver;
         driver.get(PAGE_URL);
         PageFactory.initElements(driver, this);
+        acceptCookies.click();
     }
 
     //открытие вкладки Events
@@ -31,5 +41,11 @@ public class MainPage extends PageObject {
       eventsTab.click();
      }
 
+
+    //открытие вкладки Video
+    public void openVideo(WebDriver driver)
+    {
+        videoTab.click();
+    }
 
 }

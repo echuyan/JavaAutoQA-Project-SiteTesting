@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fabc9c6-eab5-48be-ae77-20c5e886ef65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>шф</find>
+      <find>bxtc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/otus/WDFTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/another_way/WebDriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/another_way/Browsers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/factory/WebDriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/WDAnotherTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/OtusTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/GoogleSearchPageObject.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/OtusMainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/TestResources/LogoPass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/TestResources/logopass.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/OtusPersonalizedPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/OtusLKPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/OtusPersonalData.java" />
+        <option value="$PROJECT_DIR$/src/readme.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Tests/OtusTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logopass.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/personalData.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/OtusLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/EventsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Tests/FutureEventsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Tests/CheckEventCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/otus/Pages/PastEventsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/CheckEventCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" />
+        <option value="$PROJECT_DIR$/jenkinsfile" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FilterByCategoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/TalksLibraryPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FindTalksByKeywordTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FutureEventsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/UpcomingEventsDatesValidationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WebDriverInit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" />
+        <option value="$PROJECT_DIR$/target/surefire-reports/2021-08-17T00-03-49_891-jvmRun1.dump" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ChuyanProjectWork" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ChuyanProjectWork" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ChuyanProjectWork" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="allure" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-31" />
+    <option name="y" value="-31" />
+    <option name="width" value="1960" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectWorkJavaAutoQA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectWorkJavaAutoQA" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629212278838" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.31264368" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Обучение - Java Auto QA\DZ4POMPF\src\main\resources" />
+      <recent name="C:\Обучение - Java Auto QA\DZ4POMPF\src\test\java" />
+      <recent name="C:\Обучение - Java Auto QA\DZ4POMPF\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="epam.Pages" />
+      <recent name="epam.Tests" />
+      <recent name="otus.Pages" />
+      <recent name="otus.Tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Обучение - Java Auto QA\DZ4POMPF\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FilterTalksByCategoryTest">
+    <configuration name="All in ChuyanProjectWork (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChuyanProjectWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ChuyanProjectWork (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChuyanProjectWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ChuyanProjectWork (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChuyanProjectWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanadaPastEventsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChuyanProjectWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epam.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epam.Tests" />
+      <option name="MAIN_CLASS_NAME" value="epam.Tests.CanadaPastEventsTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterTalksByCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChuyanProjectWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epam.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epam.Tests" />
+      <option name="MAIN_CLASS_NAME" value="epam.Tests.FilterTalksByCategoryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FilterTalksByCategoryTest" />
+        <item itemvalue="JUnit.CanadaPastEventsTest" />
+        <item itemvalue="JUnit.All in ChuyanProjectWork (3)" />
+        <item itemvalue="JUnit.All in ChuyanProjectWork (2)" />
+        <item itemvalue="JUnit.All in ChuyanProjectWork (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../GATLING/sbt/gatling-sbt-plugin-demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fabc9c6-eab5-48be-ae77-20c5e886ef65" name="Default Changelist" comment="" />
+      <created>1622981886939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622981886939</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit, two tests done">
+      <created>1629043353824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629043353824</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add some unversioned files">
+      <created>1629043416138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629043416138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Third test">
+      <created>1629050796210</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629050796210</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added allure dependencies and jenkinsfie">
+      <created>1629132473379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629132473379</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Deleted redundant files, added some new tests to develop, cleaned some code and comments">
+      <created>1629133446903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629133446903</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 16h 21m 35s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 16h 57m 05s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 17h 02m 14s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 17h 21m 44s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 17h 25m 10s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 17h 29m 56s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 17h 33m 18s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 17h 37m 10s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 17h 47m 16s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilterTalksByCategoryTest - 2021.08.17 at 17h 53m 19s.xml">
+      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1753" height="954" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20471977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.19157088" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39854193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3716475" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38274604" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.29161605" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24955752" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.1380531" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21887906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.19157088" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20561941" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3716475" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32950193" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.29374203" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, two tests done" />
+    <MESSAGE value="Add some unversioned files" />
+    <MESSAGE value="Third test" />
+    <MESSAGE value="Added allure dependencies and jenkinsfie" />
+    <MESSAGE value="Deleted redundant files, added some new tests to develop, cleaned some code and comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted redundant files, added some new tests to develop, cleaned some code and comments" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/WdFactoryIfElse.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/sp/SearchForKeyword.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/sp/GoogleSearchPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/sp/GoogleSearchPageObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/sp/GoogleSearchResults.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/sp/StartWith.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/sp_tests/GoogleSearchLiveTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/sp_tests/GoogleSearchPageObjectLiveTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/sp_tests/GoogleSearchScreenplayLiveTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/TestResources/LogoPass.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/TestResources/Contacts.java" />
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="566" selection-start-line="566" selection-end-line="566" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/otus/Tests/WDAnotherTest.java" />
+    <entry file="file://$PROJECT_DIR$/DZ4-Chuyan-POM-WDF.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="174" selection-start-line="23" selection-start-column="174" selection-end-line="23" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusLKPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusPersonalizedPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logopass.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/personalData.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/Browsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/WebDriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WebDriverInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FindTalksByKeywordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="71" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusPersonalData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/UpcomingEventsDatesValidationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="188" column="36" selection-start-line="188" selection-start-column="36" selection-end-line="188" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/2021-08-17T00-03-49_891-jvmRun1.dump">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="91" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/TalksLibraryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FutureEventsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="91" column="18" selection-start-line="89" selection-start-column="6" selection-end-line="93" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DZ4-Chuyan-POM-WDF</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31264368" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31264368" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
