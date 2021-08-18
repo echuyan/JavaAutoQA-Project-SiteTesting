@@ -1427,3 +1427,471 @@
 2021-08-17 19:14:55,113 INFO e.T.FutureEventsTest [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
 2021-08-17 19:14:59,017 INFO e.T.FutureEventsTest [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
 2021-08-17 19:15:01,664 INFO e.T.FilterTalksByCategoryTest [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-17 19:23:54,050 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-17 19:24:08,997 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-17 19:24:09,011 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-17 19:24:09,093 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-17 19:24:10,798 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-17 19:24:27,553 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-17 19:24:27,577 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-17 19:24:27,596 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-17 19:24:27,617 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-17 19:24:27,649 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-17 19:24:28,295 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-17 19:24:28,311 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-17 19:24:28,326 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-17 19:24:28,342 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-17 19:24:28,358 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-17 19:24:28,373 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-17 19:24:28,397 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-17 19:24:28,414 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-17 19:24:28,430 INFO e.T.FutureEventsTest [main] Natalya Lukyanenko
+2021-08-17 19:24:28,445 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-17 19:24:28,461 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 19:24:28,466 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-17 19:24:28,482 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 19:24:28,498 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 19:24:28,513 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-17 19:24:28,529 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 19:24:28,545 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-17 19:24:28,560 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-17 19:24:28,576 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-17 19:24:28,591 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-17 19:24:28,607 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-17 19:24:28,623 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-17 19:24:28,638 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-17 19:24:28,726 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-17 19:24:30,237 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 19:24:50,296 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-17 19:25:14,852 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 19:25:16,174 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-17 19:25:43,482 INFO e.T.FutureEventsTest [main] Найдено карточек с ключевым словом QA: 3
+2021-08-17 19:25:45,545 INFO e.T.FutureEventsTest [main] Памятка молодого QA менеджера
+2021-08-17 19:25:49,750 INFO e.T.FutureEventsTest [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-17 19:25:53,574 INFO e.T.FutureEventsTest [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-17 19:25:56,479 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-17 19:25:57,838 INFO e.T.FutureEventsTest [main] Драйвер поднят
+2021-08-17 19:26:18,082 INFO e.T.FutureEventsTest [main] Драйвер опущен
+2021-08-17 19:26:19,341 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер поднят
+2021-08-17 19:26:25,835 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-17 19:26:25,850 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-17 19:26:25,850 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-17 19:26:25,897 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер опущен
+2021-08-17 23:22:07,314 INFO e.T.FutureEventsTest [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-17 23:22:38,357 INFO e.T.FutureEventsTest [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-17 23:38:15,731 INFO e.T.FutureEventsTest [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-17 23:38:27,118 INFO e.T.FutureEventsTest [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-18 19:55:57,032 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 19:56:14,986 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 19:56:15,052 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 19:56:15,654 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 20:00:56,578 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 20:01:08,184 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 20:01:08,200 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 20:01:08,304 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 20:01:11,902 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 20:01:23,772 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-18 20:01:23,800 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-18 20:01:23,822 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-18 20:01:23,845 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-18 20:01:23,888 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-18 20:01:26,704 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-18 20:01:26,736 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-18 20:01:26,768 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-18 20:01:26,792 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-18 20:01:26,824 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-18 20:01:26,848 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-18 20:01:26,872 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-18 20:01:26,896 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-18 20:01:26,912 INFO e.T.FutureEventsTest [main] Natalya Lukyanenko
+2021-08-18 20:01:26,928 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-18 20:01:26,944 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:01:26,960 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-18 20:01:26,976 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:01:26,992 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:01:27,008 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-18 20:01:27,032 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:01:27,048 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-18 20:01:27,064 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:01:27,072 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-18 20:01:27,096 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-18 20:01:27,112 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-18 20:01:27,128 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-18 20:01:27,144 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-18 20:01:27,386 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-18 20:04:42,958 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 20:04:53,402 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 20:04:53,413 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 20:04:53,521 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 20:04:57,044 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 20:05:04,951 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-18 20:05:04,980 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-18 20:05:05,014 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-18 20:05:05,044 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-18 20:05:05,086 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-18 20:05:06,364 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-18 20:05:06,386 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-18 20:05:06,403 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-18 20:05:06,422 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-18 20:05:06,444 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-18 20:05:06,464 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-18 20:05:06,484 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-18 20:05:06,500 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-18 20:05:06,515 INFO e.T.FutureEventsTest [main] Alena Ananeva
+2021-08-18 20:05:06,536 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-18 20:05:06,560 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:05:06,577 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-18 20:05:06,594 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:05:06,620 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:05:06,645 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-18 20:05:06,671 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:05:06,698 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-18 20:05:06,723 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:05:06,751 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-18 20:05:06,773 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-18 20:05:06,793 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-18 20:05:06,815 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-18 20:05:06,831 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-18 20:05:06,931 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-18 20:05:10,867 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 20:48:54,714 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 20:49:07,978 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 20:49:08,007 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 20:49:08,100 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 20:49:10,917 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 20:52:16,326 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 20:52:23,780 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 20:52:23,791 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 20:52:23,871 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 20:52:25,610 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 20:52:31,209 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-18 20:52:31,229 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-18 20:52:31,247 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-18 20:52:31,266 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-18 20:52:31,286 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-18 20:52:32,128 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-18 20:52:32,143 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-18 20:52:32,165 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-18 20:52:32,187 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-18 20:52:32,209 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-18 20:52:32,231 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-18 20:52:32,254 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-18 20:52:32,275 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-18 20:52:32,308 INFO e.T.FutureEventsTest [main] Alena Ananeva
+2021-08-18 20:52:32,331 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-18 20:52:32,355 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:52:32,379 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-18 20:52:32,404 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:52:32,427 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:52:32,454 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-18 20:52:32,478 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:52:32,501 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-18 20:52:32,525 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 20:52:32,549 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-18 20:52:32,573 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-18 20:52:32,596 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-18 20:52:32,621 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-18 20:52:32,645 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-18 20:52:32,732 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-18 20:52:34,541 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 20:52:41,906 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 20:53:22,587 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 20:53:24,310 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 20:53:39,513 INFO e.T.FutureEventsTest [main] Найдено карточек с ключевым словом QA: 3
+2021-08-18 20:53:40,841 INFO e.T.FutureEventsTest [main] Памятка молодого QA менеджера
+2021-08-18 20:53:43,663 INFO e.T.FutureEventsTest [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-18 20:53:46,401 INFO e.T.FutureEventsTest [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-18 20:53:47,993 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 20:53:49,581 INFO e.T.FutureEventsTest [main] Драйвер поднят
+2021-08-18 20:53:53,450 INFO e.T.FutureEventsTest [main] Драйвер опущен
+2021-08-18 20:53:55,156 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер поднят
+2021-08-18 20:54:00,537 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-18 20:54:00,550 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-18 20:54:00,550 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-18 20:54:00,620 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер опущен
+2021-08-18 20:56:10,105 INFO e.T.FilterTalksByCategoryTest [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-18 20:56:19,130 INFO e.T.FilterTalksByCategoryTest [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-18 21:00:15,647 INFO e.T.FilterTalksByCategoryTest [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-18 21:00:39,352 INFO e.T.FilterTalksByCategoryTest [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-18 21:02:25,735 INFO e.T.FilterTalksByCategoryTest [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-18 21:02:39,148 INFO e.T.FutureEventsTest [main] РќР°Р№РґРµРЅРѕ РєР°СЂС‚РѕС‡РµРє СЃ РјРµСЂРѕРїСЂРёСЏС‚РёСЏРјРё Р’ Р‘РµР»Р°СЂСѓСЃРё РЅР° Р°РЅРіР»РёР№СЃРєРѕРј СЏР·С‹РєРµ РїРѕ С‚РµРјР°С‚РёРєРµ РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ: 4
+2021-08-18 21:03:00,645 INFO e.T.FilterTalksByCategoryTest [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-18 21:03:49,568 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 21:03:57,527 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 21:03:57,542 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 21:03:57,627 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 21:03:59,514 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 21:04:07,474 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-18 21:04:07,499 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-18 21:04:07,521 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-18 21:04:07,544 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-18 21:04:07,567 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-18 21:04:08,571 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-18 21:04:08,587 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-18 21:04:08,616 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-18 21:04:08,645 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-18 21:04:08,672 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-18 21:04:08,700 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-18 21:04:08,727 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-18 21:04:08,759 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-18 21:04:08,787 INFO e.T.FutureEventsTest [main] Eliza Iliazova
+2021-08-18 21:04:08,816 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-18 21:04:08,846 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:04:08,883 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-18 21:04:08,910 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:04:08,937 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:04:08,963 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-18 21:04:08,990 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:04:09,017 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-18 21:04:09,046 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:04:09,073 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-18 21:04:09,098 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-18 21:04:09,123 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-18 21:04:09,150 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-18 21:04:09,176 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-18 21:04:09,270 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-18 21:04:11,905 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:04:24,186 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 21:05:05,270 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 21:05:07,622 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:05:23,633 INFO e.T.FutureEventsTest [main] Найдено карточек с ключевым словом QA: 3
+2021-08-18 21:05:24,929 INFO e.T.FutureEventsTest [main] Памятка молодого QA менеджера
+2021-08-18 21:05:27,699 INFO e.T.FutureEventsTest [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-18 21:05:30,428 INFO e.T.FutureEventsTest [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-18 21:05:32,185 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 21:05:33,613 INFO e.T.FutureEventsTest [main] Драйвер поднят
+2021-08-18 21:05:37,866 INFO e.T.FutureEventsTest [main] Драйвер опущен
+2021-08-18 21:05:39,302 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер поднят
+2021-08-18 21:05:44,414 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-18 21:05:44,432 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-18 21:05:44,433 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-18 21:05:44,503 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер опущен
+2021-08-18 21:11:01,710 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 21:11:10,096 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 21:11:10,109 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 21:11:10,196 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 21:11:13,429 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 21:11:20,003 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-18 21:11:20,029 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-18 21:11:20,049 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-18 21:11:20,066 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-18 21:11:20,086 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-18 21:11:20,970 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-18 21:11:20,984 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-18 21:11:21,015 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-18 21:11:21,040 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-18 21:11:21,065 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-18 21:11:21,088 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-18 21:11:21,112 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-18 21:11:21,141 INFO e.T.FutureEventsTest [main] Vasilii Komolov
+2021-08-18 21:11:21,164 INFO e.T.FutureEventsTest [main] Eliza Iliazova
+2021-08-18 21:11:21,188 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-18 21:11:21,212 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:11:21,236 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-18 21:11:21,259 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:11:21,290 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:11:21,313 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-18 21:11:21,336 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:11:21,363 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-18 21:11:21,386 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:11:21,408 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-18 21:11:21,429 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-18 21:11:21,453 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-18 21:11:21,476 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-18 21:11:21,503 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-18 21:11:21,589 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-18 21:11:24,351 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:11:32,870 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 21:12:15,662 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 21:12:19,782 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:12:36,689 INFO e.T.FutureEventsTest [main] Найдено карточек с ключевым словом QA: 3
+2021-08-18 21:12:38,500 INFO e.T.FutureEventsTest [main] Памятка молодого QA менеджера
+2021-08-18 21:12:41,693 INFO e.T.FutureEventsTest [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-18 21:12:44,640 INFO e.T.FutureEventsTest [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-18 21:12:46,439 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 21:12:49,007 INFO e.T.FutureEventsTest [main] Драйвер поднят
+2021-08-18 21:12:54,884 INFO e.T.FutureEventsTest [main] Драйвер опущен
+2021-08-18 21:12:56,770 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер поднят
+2021-08-18 21:13:02,957 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-18 21:13:02,974 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-18 21:13:02,975 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-18 21:13:03,052 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер опущен
+2021-08-18 21:18:33,315 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 21:18:42,192 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 21:18:42,205 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 21:18:42,287 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 21:18:45,040 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 21:18:51,678 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-18 21:18:51,698 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-18 21:18:51,718 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-18 21:18:51,739 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-18 21:18:51,762 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-18 21:18:52,717 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-18 21:18:52,732 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-18 21:18:52,764 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-18 21:18:52,791 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-18 21:18:52,823 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-18 21:18:52,853 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-18 21:18:52,879 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-18 21:18:52,912 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-18 21:18:52,950 INFO e.T.FutureEventsTest [main] Alena Ananeva
+2021-08-18 21:18:52,984 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-18 21:18:53,015 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:18:53,048 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-18 21:18:53,079 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:18:53,100 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:18:53,120 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-18 21:18:53,140 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:18:53,160 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-18 21:18:53,183 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 21:18:53,207 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-18 21:18:53,231 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-18 21:18:53,255 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-18 21:18:53,277 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-18 21:18:53,298 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-18 21:18:53,383 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-18 21:18:55,530 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:19:03,869 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 21:19:56,699 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 21:20:00,247 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:20:16,307 INFO e.T.FutureEventsTest [main] Найдено карточек с ключевым словом QA: 3
+2021-08-18 21:20:17,800 INFO e.T.FutureEventsTest [main] Памятка молодого QA менеджера
+2021-08-18 21:20:20,796 INFO e.T.FutureEventsTest [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-18 21:20:23,543 INFO e.T.FutureEventsTest [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-18 21:20:25,225 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 21:20:26,855 INFO e.T.FutureEventsTest [main] Драйвер поднят
+2021-08-18 21:20:31,114 INFO e.T.FutureEventsTest [main] Драйвер опущен
+2021-08-18 21:20:32,847 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер поднят
+2021-08-18 21:20:37,726 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-18 21:20:37,738 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-18 21:20:37,738 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-18 21:20:37,808 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер опущен
+2021-08-18 21:39:25,818 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:39:49,041 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 21:41:20,841 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 21:44:27,463 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:44:47,643 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 21:45:59,149 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 21:50:00,952 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:50:23,502 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 21:56:17,631 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 21:56:37,408 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 21:58:17,993 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 22:02:10,781 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 22:02:23,033 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 22:03:02,052 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 22:11:01,191 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 22:11:15,326 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 22:11:44,656 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 22:15:50,834 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 22:16:07,466 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 22:16:07,491 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 22:16:07,614 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 22:16:10,850 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 22:16:22,206 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-18 22:16:22,293 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-18 22:16:22,369 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-18 22:16:22,458 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-18 22:16:22,527 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-18 22:16:25,194 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-18 22:16:25,241 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-18 22:16:25,328 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-18 22:16:25,441 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-18 22:16:25,522 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-18 22:16:25,605 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-18 22:16:25,711 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-18 22:16:25,781 INFO e.T.FutureEventsTest [main] Yulia Kanakova
+2021-08-18 22:16:25,851 INFO e.T.FutureEventsTest [main] Alena Ananeva
+2021-08-18 22:16:25,938 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-18 22:16:26,032 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 22:16:26,108 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-18 22:16:26,194 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 22:16:26,294 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 22:16:26,377 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-18 22:16:26,449 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 22:16:26,539 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-18 22:16:26,656 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 22:16:26,758 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-18 22:16:26,834 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-18 22:16:26,887 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-18 22:16:26,948 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-18 22:16:27,021 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-18 22:16:27,367 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-18 22:16:40,457 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 22:17:24,712 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 22:18:18,928 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 22:18:25,124 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 22:20:15,434 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 22:20:35,103 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 22:21:10,770 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 22:39:34,016 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 22:40:01,974 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 22:40:40,841 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 22:45:41,092 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 22:46:11,801 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 22:46:48,112 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 23:05:28,463 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 23:06:03,481 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 23:06:45,982 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 23:09:11,909 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 23:09:34,776 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 23:10:09,011 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 23:15:06,258 INFO e.T.CanadaPastEventsTest [main] Драйвер поднят
+2021-08-18 23:15:27,841 INFO e.T.FutureEventsTest [main] 4 - 11 Dec 2019
+2021-08-18 23:15:27,880 INFO e.T.FutureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-18 23:15:28,182 INFO e.T.CanadaPastEventsTest [main] Драйвер опущен
+2021-08-18 23:15:36,479 INFO e.T.CheckPastEventCardsTest [main] Драйвер поднят
+2021-08-18 23:15:52,889 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-18 23:15:52,969 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-18 23:15:53,030 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-18 23:15:53,119 INFO e.T.FutureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-18 23:15:53,218 INFO e.T.FutureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-18 23:15:58,641 INFO e.T.FutureEventsTest [main] Список спикеров:
+
+2021-08-18 23:15:58,694 INFO e.T.FutureEventsTest [main] Speaker
+2021-08-18 23:15:58,811 INFO e.T.FutureEventsTest [main] Aleksandr Chikovani
+2021-08-18 23:15:58,963 INFO e.T.FutureEventsTest [main] Aleksandra Konnova
+2021-08-18 23:15:59,080 INFO e.T.FutureEventsTest [main] Mikhail Latypov
+2021-08-18 23:15:59,226 INFO e.T.FutureEventsTest [main] Konstantin Semenov
+2021-08-18 23:15:59,316 INFO e.T.FutureEventsTest [main] Alisa Khoroshenina
+2021-08-18 23:15:59,417 INFO e.T.FutureEventsTest [main] Alena Ananeva
+2021-08-18 23:15:59,503 INFO e.T.FutureEventsTest [main] Natalya Lukyanenko
+2021-08-18 23:15:59,586 INFO e.T.FutureEventsTest [main] Vasil Kasimov
+2021-08-18 23:15:59,731 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 23:15:59,846 INFO e.T.FutureEventsTest [main] Timur Sokolov
+2021-08-18 23:15:59,970 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 23:16:00,081 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 23:16:00,188 INFO e.T.FutureEventsTest [main] Denis Mokrushin
+2021-08-18 23:16:00,313 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 23:16:00,390 INFO e.T.FutureEventsTest [main] Ilia Isakhin
+2021-08-18 23:16:00,493 INFO e.T.FutureEventsTest [main] Mariia Vyguzova
+2021-08-18 23:16:00,570 INFO e.T.FutureEventsTest [main] Aida Zainullina
+2021-08-18 23:16:00,671 INFO e.T.FutureEventsTest [main] Aleksei Pimenov
+2021-08-18 23:16:00,839 INFO e.T.FutureEventsTest [main] Konstantin Anfalov
+2021-08-18 23:16:01,095 INFO e.T.FutureEventsTest [main] Sergei Dudoladov
+2021-08-18 23:16:01,186 INFO e.T.FutureEventsTest [main] Александр Морозов
+2021-08-18 23:16:01,955 INFO e.T.CheckPastEventCardsTest [main] Драйвер опущен
+2021-08-18 23:16:41,488 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 23:17:19,074 INFO e.T.FutureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-18 23:17:52,891 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 23:18:00,355 INFO e.T.FilterTalksByCategoryTest [main] Драйвер поднят
+2021-08-18 23:18:21,436 INFO e.T.FutureEventsTest [main] Найдено карточек с ключевым словом QA: 3
+2021-08-18 23:18:23,111 INFO e.T.FutureEventsTest [main] Памятка молодого QA менеджера
+2021-08-18 23:18:27,250 INFO e.T.FutureEventsTest [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-18 23:18:31,077 INFO e.T.FutureEventsTest [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-18 23:18:33,273 INFO e.T.FilterTalksByCategoryTest [main] Драйвер опущен
+2021-08-18 23:18:56,898 INFO e.T.FutureEventsTest [main] Драйвер поднят
+2021-08-18 23:19:02,950 INFO e.T.FutureEventsTest [main] Драйвер опущен
+2021-08-18 23:19:37,319 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер поднят
+2021-08-18 23:19:44,120 INFO e.T.FutureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-18 23:19:44,188 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-18 23:19:44,189 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-18 23:19:44,291 INFO e.T.UpcomingEventsDatesValidationTest [main] Драйвер опущен

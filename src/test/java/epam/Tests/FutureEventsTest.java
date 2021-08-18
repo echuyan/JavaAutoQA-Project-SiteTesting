@@ -1,7 +1,6 @@
 package epam.Tests;
 
-import factory.Browsers;
-import factory.WebDriverFactory;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -21,6 +20,8 @@ import java.io.File;
 
 import java.util.concurrent.TimeUnit;
 
+import static drivers.WebDriverInit.initDriver;
+
 
 public class FutureEventsTest {
     private Logger logger = LogManager.getLogger(FutureEventsTest.class);
@@ -30,7 +31,7 @@ public class FutureEventsTest {
     @Before
     public void setup() {
     //инициализируем драйвер
-     wd = WebDriverFactory.create(Browsers.CHROME);
+        wd = initDriver() ;
      wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
      wd.manage().window().maximize();
      logger.info("Драйвер поднят");

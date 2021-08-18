@@ -1,20 +1,19 @@
 package epam.Pages;
 
 import epam.Tests.FutureEventsTest;
+import io.qameta.allure.Allure;
 import net.thucydides.core.pages.PageObject;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.io.ByteArrayInputStream;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -107,11 +106,14 @@ public class VideoTalksLibraryPage extends PageObject {
     @FindBy(xpath ="//h1[@class='evnt-talk-title']")
     private WebElement eventTitle;
 
+    //лоадер
+    @FindBy(xpath = "//div[@class='evnt-loader']")
+    private WebElement loader;
 
     //Конструктор
         public VideoTalksLibraryPage(WebDriver driver){
         this.driver = driver;
-        wait = new WebDriverWait(driver,15,50);
+        wait = new WebDriverWait(driver,10,1000);
         PageFactory.initElements(driver, this);
 
     }
@@ -127,17 +129,21 @@ public class VideoTalksLibraryPage extends PageObject {
      */
    public void checkFiltration()
     {
+        wait.until(ExpectedConditions.elementToBeClickable(moreFilters));
         if (close.isDisplayed()) {close.click();}
         Actions action = new Actions(driver);
         moreFilters.click();
-
+        Allure.addAttachment("Открыли фильтры", new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
         categoryFilter.click();
+        Allure.addAttachment("Категория", new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
         wait.until(ExpectedConditions.elementToBeClickable(categoryTesting)).click();
         wait.until(ExpectedConditions.visibilityOf(locationFilter)).click();
         wait.until(ExpectedConditions.visibilityOf(locationBelarus)).click();
         languageFilter.click();
+        Allure.addAttachment("Язык", new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
         wait.until(ExpectedConditions.elementToBeClickable(languageEnglish)).click();
         wait.until(ExpectedConditions.visibilityOf(foundResults));
+        Allure.addAttachment("Нашли что-то", new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
         hideFilters.click();
         wait.until(ExpectedConditions.visibilityOf(moreFilters));
 
@@ -147,13 +153,22 @@ public class VideoTalksLibraryPage extends PageObject {
         int j =0;
         for (j=0;j<i;j++) {
            action.moveToElement(lst.get(j)).click().build().perform();
-           wait.until(ExpectedConditions.visibilityOf(back));
+            Allure.addAttachment("Смотрим карточки", new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
+
+            try {
+                Thread.sleep(2000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            Allure.step("Имя ивента: "+eventTitle.getText());
+            wait.until(ExpectedConditions.visibilityOf(back));
+            Allure.addAttachment("Вроде как должна быть кнопка Back", new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
             Assert.assertEquals("Мероприятие не на английском языке!","ENGLISH",cardLanguage.getText());
             Assert.assertTrue("Мероприятие не принадлежит категории Тестирование!",cardLabelTesting.isDisplayed());
             Assert.assertTrue("Мероприятие проводится не в Беларуси!",cardAddressBelarus.isDisplayed());
+            back.click();
+            Allure.addAttachment("Вернулись из карточки и смотрим на карточки", new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
 
-
-           back.click();
 
            wait.until(ExpectedConditions.visibilityOf(foundResults));
            lst = driver.findElements(By.ByXPath.xpath("//div[@class='evnt-talk-card']/a"));

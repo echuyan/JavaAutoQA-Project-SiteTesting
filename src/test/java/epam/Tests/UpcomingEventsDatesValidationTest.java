@@ -3,8 +3,7 @@ package epam.Tests;
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
 import epam.Pages.PastEventsPage;
-import factory.Browsers;
-import factory.WebDriverFactory;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.After;
@@ -16,6 +15,8 @@ import org.openqa.selenium.WebDriver;
 import java.io.InputStream;
 import java.util.concurrent.TimeUnit;
 
+import static drivers.WebDriverInit.initDriver;
+
 
 public class UpcomingEventsDatesValidationTest {
     private Logger logger = LogManager.getLogger(UpcomingEventsDatesValidationTest.class);
@@ -25,7 +26,7 @@ public class UpcomingEventsDatesValidationTest {
     @Before
     public void setup() {
     //инициализируем драйвер
-     wd = WebDriverFactory.create(Browsers.CHROME);
+        wd = initDriver() ;
      wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
      wd.manage().window().maximize();
      logger.info("Драйвер поднят");
