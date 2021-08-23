@@ -2013,3 +2013,54 @@
 2021-08-23 22:03:35,828 INFO e.T.FutureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
 2021-08-23 22:03:35,828 INFO e.T.FutureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
 2021-08-23 22:03:35,917 INFO e.T.BaseTestClass [main] Драйвер опущен
+2021-08-23 22:45:57,877 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-23 22:46:14,277 INFO e.T.futureEventsTest [main] 4 - 11 Dec 2019
+2021-08-23 22:46:14,288 INFO e.T.futureEventsTest [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-23 22:46:14,380 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-23 22:46:17,143 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-23 22:46:27,582 INFO e.T.futureEventsTest [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-23 22:46:27,640 INFO e.T.futureEventsTest [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-23 22:46:27,682 INFO e.T.futureEventsTest [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-23 22:46:27,728 INFO e.T.futureEventsTest [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-23 22:46:27,774 INFO e.T.futureEventsTest [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-23 22:46:29,648 INFO e.T.futureEventsTest [main] Список спикеров:
+
+2021-08-23 22:46:29,674 INFO e.T.futureEventsTest [main] Speaker
+2021-08-23 22:46:29,730 INFO e.T.futureEventsTest [main] Aleksandr Chikovani
+2021-08-23 22:46:29,766 INFO e.T.futureEventsTest [main] Aleksandra Konnova
+2021-08-23 22:46:29,810 INFO e.T.futureEventsTest [main] Mikhail Latypov
+2021-08-23 22:46:29,869 INFO e.T.futureEventsTest [main] Konstantin Semenov
+2021-08-23 22:46:29,934 INFO e.T.futureEventsTest [main] Alisa Khoroshenina
+2021-08-23 22:46:30,005 INFO e.T.futureEventsTest [main] Alena Ananeva
+2021-08-23 22:46:30,058 INFO e.T.futureEventsTest [main] Natalya Lukyanenko
+2021-08-23 22:46:30,104 INFO e.T.futureEventsTest [main] Vasil Kasimov
+2021-08-23 22:46:30,152 INFO e.T.futureEventsTest [main] Mariia Vyguzova
+2021-08-23 22:46:30,199 INFO e.T.futureEventsTest [main] Timur Sokolov
+2021-08-23 22:46:30,253 INFO e.T.futureEventsTest [main] Mariia Vyguzova
+2021-08-23 22:46:30,293 INFO e.T.futureEventsTest [main] Mariia Vyguzova
+2021-08-23 22:46:30,324 INFO e.T.futureEventsTest [main] Denis Mokrushin
+2021-08-23 22:46:30,352 INFO e.T.futureEventsTest [main] Mariia Vyguzova
+2021-08-23 22:46:30,381 INFO e.T.futureEventsTest [main] Ilia Isakhin
+2021-08-23 22:46:30,411 INFO e.T.futureEventsTest [main] Mariia Vyguzova
+2021-08-23 22:46:30,442 INFO e.T.futureEventsTest [main] Aida Zainullina
+2021-08-23 22:46:30,474 INFO e.T.futureEventsTest [main] Aleksei Pimenov
+2021-08-23 22:46:30,501 INFO e.T.futureEventsTest [main] Konstantin Anfalov
+2021-08-23 22:46:30,528 INFO e.T.futureEventsTest [main] Sergei Dudoladov
+2021-08-23 22:46:30,558 INFO e.T.futureEventsTest [main] Александр Морозов
+2021-08-23 22:46:30,722 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-23 22:47:19,419 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-23 22:47:35,168 INFO e.T.futureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-23 22:47:56,107 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-23 22:47:58,104 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-23 22:48:26,703 INFO e.T.futureEventsTest [main] Найдено карточек с ключевым словом QA: 3
+2021-08-23 22:48:28,282 INFO e.T.futureEventsTest [main] Памятка молодого QA менеджера
+2021-08-23 22:48:32,146 INFO e.T.futureEventsTest [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-23 22:48:36,015 INFO e.T.futureEventsTest [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-23 22:48:38,074 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-23 22:48:58,312 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-23 22:49:14,008 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-23 22:49:40,062 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-23 22:49:58,300 INFO e.T.futureEventsTest [main] 1 Feb - 25 Aug 2025
+2021-08-23 22:49:58,317 INFO e.T.futureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-23 22:49:58,317 INFO e.T.futureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-23 22:49:58,397 INFO e.T.baseTestClass [main] Драйвер опущен

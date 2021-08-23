@@ -26,7 +26,7 @@ public class MainPage {
 
 
 
-    //конструктор
+
     public MainPage(WebDriver driver){
         this.driver = driver;
         driver.get(PAGE_URL);

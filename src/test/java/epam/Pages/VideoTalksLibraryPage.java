@@ -1,8 +1,7 @@
 package epam.Pages;
 
-import epam.Tests.FutureEventsTest;
+import epam.Tests.futureEventsTest;
 import io.qameta.allure.Allure;
-import net.thucydides.core.pages.PageObject;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
@@ -14,22 +13,13 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.ByteArrayInputStream;
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.time.LocalDate;
-import java.time.Year;
-import java.time.ZoneId;
-import java.time.ZonedDateTime;
-import java.util.Date;
 import java.util.List;
-import java.util.Locale;
 
 
 public class VideoTalksLibraryPage  {
     private WebDriver driver;
     private WebDriverWait wait;
-    private Logger logger = LogManager.getLogger(FutureEventsTest.class);
+    private Logger logger = LogManager.getLogger(futureEventsTest.class);
 
     //Заголовок
       @FindBy(xpath = "//h1[contains(.,'Talks Library')]")
@@ -110,7 +100,6 @@ public class VideoTalksLibraryPage  {
     @FindBy(xpath = "//div[@class='evnt-loader']")
     private WebElement loader;
 
-    //Конструктор
         public VideoTalksLibraryPage(WebDriver driver){
         this.driver = driver;
         wait = new WebDriverWait(driver,10,1000);

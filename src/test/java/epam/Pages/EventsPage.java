@@ -1,9 +1,7 @@
 package epam.Pages;
 
-import net.thucydides.core.pages.PageObject;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.joda.time.DateTime;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -12,7 +10,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import epam.Tests.FutureEventsTest;
+import epam.Tests.futureEventsTest;
 
 import java.text.DateFormat;
 import java.text.ParseException;
@@ -23,7 +21,6 @@ import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.Date;
 
-import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
@@ -31,7 +28,7 @@ import java.util.Locale;
 public class EventsPage {
     private WebDriver driver;
     private WebDriverWait wait;
-    private Logger logger = LogManager.getLogger(FutureEventsTest.class);
+    private Logger logger = LogManager.getLogger(futureEventsTest.class);
 
     //лоадер
       @FindBy(xpath = "//div[@class='evnt-global-loader']")
