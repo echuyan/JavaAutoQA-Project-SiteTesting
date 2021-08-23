@@ -4,11 +4,9 @@
     <list default="true" id="4fabc9c6-eab5-48be-ae77-20c5e886ef65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WebDriverInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drivers/WebDriverInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factory/Browsers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factory/WebDriverFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/logopass.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/personalData.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java" afterDir="false" />
@@ -25,25 +23,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ProjectWorkJavaAutoQA" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/BaseTestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-304">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="224">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/drivers/WebDriverInit.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="201">
+              <caret line="190" column="32" selection-start-line="190" selection-start-column="32" selection-end-line="190" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -94,26 +95,28 @@
         <option value="$PROJECT_DIR$/src/test/java/otus/Tests/CheckEventCardsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/otus/Pages/PastEventsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/epam/Tests/CheckEventCardsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" />
         <option value="$PROJECT_DIR$/jenkinsfile" />
         <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FilterByCategoryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/epam/Pages/TalksLibraryPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/WebDriverInit.java" />
-        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" />
         <option value="$PROJECT_DIR$/target/surefire-reports/2021-08-17T00-03-49_891-jvmRun1.dump" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/factory/WebDriverFactory.java" />
         <option value="$PROJECT_DIR$/src/main/resources/personalData.properties" />
         <option value="$PROJECT_DIR$/src/main/java/drivers/WebDriverInit.java" />
-        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/mainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/BaseTestClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FindTalksByKeywordTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/epam/Tests/FutureEventsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/epam/Tests/UpcomingEventsDatesValidationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" />
       </list>
     </option>
   </component>
@@ -147,8 +150,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-34" />
-    <option name="y" value="-34" />
+    <option name="x" value="-36" />
+    <option name="y" value="-36" />
     <option name="width" value="1961" />
     <option name="height" value="1060" />
   </component>
@@ -159,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,12 +246,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629318014303" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629745447271" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -283,8 +286,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FilterTalksByCategoryTest">
-    <configuration name="All in ChuyanProjectWork (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in ChuyanProjectWork (1)">
+    <configuration name="All in ChuyanProjectWork (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChuyanProjectWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ChuyanProjectWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ChuyanProjectWork" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -302,20 +313,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="epam.Tests" />
       <option name="MAIN_CLASS_NAME" value="epam.Tests.CanadaPastEventsTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FilterTalksByCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ChuyanProjectWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="epam.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="epam.Tests" />
-      <option name="MAIN_CLASS_NAME" value="epam.Tests.FilterTalksByCategoryTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -350,11 +347,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FilterTalksByCategoryTest" />
-        <item itemvalue="JUnit.FutureEventsTest" />
+        <item itemvalue="JUnit.All in ChuyanProjectWork (1)" />
         <item itemvalue="JUnit.FindTalksByKeywordTest" />
+        <item itemvalue="JUnit.All in ChuyanProjectWork" />
         <item itemvalue="JUnit.CanadaPastEventsTest" />
-        <item itemvalue="JUnit.All in ChuyanProjectWork (3)" />
+        <item itemvalue="JUnit.FutureEventsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -432,39 +429,46 @@
       <option name="project" value="LOCAL" />
       <updated>1629216968191</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Selenoid support">
+      <created>1629318139092</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629318139092</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindTalksByKeywordTest - 2021.08.17 at 19h 11m 44s.xml">
-      <configuration name="FindTalksByKeywordTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindTalksByKeywordTest - 2021.08.17 at 19h 13m 09s.xml">
-      <configuration name="FindTalksByKeywordTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FindTalksByKeywordTest - 2021.08.17 at 19h 15m 02s.xml">
-      <configuration name="FindTalksByKeywordTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FutureEventsTest - 2021.08.17 at 23h 12m 14s.xml">
-      <configuration name="FutureEventsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FutureEventsTest - 2021.08.17 at 23h 20m 09s.xml">
-      <configuration name="FutureEventsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FutureEventsTest - 2021.08.17 at 23h 22m 39s.xml">
-      <configuration name="FutureEventsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FutureEventsTest - 2021.08.17 at 23h 38m 27s.xml">
-      <configuration name="FutureEventsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FilterTalksByCategoryTest - 2021.08.18 at 20h 56m 19s.xml">
-      <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FilterTalksByCategoryTest - 2021.08.18 at 21h 00m 39s.xml">
       <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FilterTalksByCategoryTest - 2021.08.18 at 21h 03m 01s.xml">
       <configuration name="FilterTalksByCategoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CanadaPastEventsTest - 2021.08.22 at 15h 46m 24s.xml">
+      <configuration name="CanadaPastEventsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CanadaPastEventsTest - 2021.08.22 at 15h 48m 02s.xml">
+      <configuration name="CanadaPastEventsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CanadaPastEventsTest - 2021.08.22 at 15h 49m 01s.xml">
+      <configuration name="CanadaPastEventsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CanadaPastEventsTest - 2021.08.23 at 21h 40m 05s.xml">
+      <configuration name="CanadaPastEventsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CanadaPastEventsTest - 2021.08.23 at 21h 46m 25s.xml">
+      <configuration name="CanadaPastEventsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ChuyanProjectWork - 2021.08.23 at 21h 55m 21s.xml">
+      <configuration name="All in ChuyanProjectWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FindTalksByKeywordTest - 2021.08.23 at 21h 58m 35s.xml">
+      <configuration name="FindTalksByKeywordTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ChuyanProjectWork_(1) - 2021.08.23 at 22h 03m 36s.xml">
+      <configuration name="All in ChuyanProjectWork (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -479,21 +483,21 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19941004" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908257" visible="true" weight="0.24542773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50091743" side_tool="true" weight="0.24247788" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.47023088" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4471446" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36695018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3705954" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32928312" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3304982" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3304982" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928312" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.29161605" />
@@ -544,7 +548,8 @@
     <MESSAGE value="Added 5th test, jenkinsfile, refactored some old tests" />
     <MESSAGE value="Updating repo" />
     <MESSAGE value="6th test done" />
-    <option name="LAST_COMMIT_MESSAGE" value="6th test done" />
+    <MESSAGE value="Selenoid support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenoid support" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -585,33 +590,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusLKPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusPersonalizedPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/2021-08-17T00-03-49_891-jvmRun1.dump">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="91" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusLKPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusPersonalizedPage.java" />
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/2021-08-17T00-03-49_891-jvmRun1.dump" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -619,23 +600,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/TalksLibraryPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusPersonalData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/TalksLibraryPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/OtusPersonalData.java" />
     <entry file="file://$PROJECT_DIR$/jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -643,133 +609,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid28740.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="507" column="42" selection-start-line="507" selection-start-column="42" selection-end-line="507" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid28284.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logopass.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/personalData.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/Browsers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2154">
-          <caret line="162" column="52" selection-start-line="162" selection-start-column="52" selection-end-line="162" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/factory/WebDriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FindTalksByKeywordTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FutureEventsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/UpcomingEventsDatesValidationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-800">
-          <caret line="37" column="32" selection-start-line="35" selection-start-column="3" selection-end-line="37" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/hs_err_pid28740.log" />
+    <entry file="file://$PROJECT_DIR$/hs_err_pid28284.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logopass.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/personalData.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/Browsers.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/factory/WebDriverFactory.java" />
+    <entry file="file://$PROJECT_DIR$/hs_err_pid27100.log" />
+    <entry file="file://$PROJECT_DIR$/hs_err_pid25024.log" />
+    <entry file="file://$PROJECT_DIR$/hs_err_pid16536.log" />
+    <entry file="file://$PROJECT_DIR$/replay_pid25024.log" />
     <entry file="file://$PROJECT_DIR$/src/main/java/drivers/WebDriverInit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -780,22 +630,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid27100.log">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid25024.log">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid16536.log">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/replay_pid25024.log">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FindTalksByKeywordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FutureEventsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/UpcomingEventsDatesValidationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="-16">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/BaseTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="190" column="32" selection-start-line="190" selection-start-column="32" selection-end-line="190" selection-end-column="32" />
         </state>
       </provider>
     </entry>

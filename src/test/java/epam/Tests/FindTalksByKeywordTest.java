@@ -1,41 +1,13 @@
 package epam.Tests;
 
-import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
 import epam.Pages.VideoTalksLibraryPage;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.junit.After;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.WebDriver;
-
-import java.io.InputStream;
-import java.util.concurrent.TimeUnit;
-
-import static drivers.WebDriverInit.initDriver;
 
 
-public class FindTalksByKeywordTest {
-    private Logger logger = LogManager.getLogger(FilterTalksByCategoryTest.class);
-    public WebDriver wd;
-    InputStream inputStream;
+public class FindTalksByKeywordTest extends BaseTestClass {
 
-    @Before
-    public void setup() {
-        //инициализируем драйвер
-        wd = initDriver() ;
-        wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        wd.manage().window().maximize();
-        logger.info("Драйвер поднят");
-    }
-
-    @After
-    public void shutdown() {
-        wd.close();
-        logger.info("Драйвер опущен");
-    }
 
     /**
      *Поиск докладов по ключевому слову:
@@ -51,7 +23,7 @@ public class FindTalksByKeywordTest {
          */
 
         MainPage mainP = new MainPage(wd);
-        mainP.openVideo(wd);
+        mainP.openVideo();
 
         /**
          *Создаем экземпляр страницы Video, проверяем ее открытие

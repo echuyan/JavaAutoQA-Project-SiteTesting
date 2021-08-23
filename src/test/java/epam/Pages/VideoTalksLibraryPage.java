@@ -26,7 +26,7 @@ import java.util.List;
 import java.util.Locale;
 
 
-public class VideoTalksLibraryPage extends PageObject {
+public class VideoTalksLibraryPage  {
     private WebDriver driver;
     private WebDriverWait wait;
     private Logger logger = LogManager.getLogger(FutureEventsTest.class);
@@ -151,7 +151,7 @@ public class VideoTalksLibraryPage extends PageObject {
         logger.info("Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: "+lst.size());
         int i = lst.size();
         int j =0;
-        for (j=0;j<i;j++) {
+        for (j=0;j<i-1;j++) {
            action.moveToElement(lst.get(j)).click().build().perform();
             Allure.addAttachment("Смотрим карточки", new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
 
@@ -182,6 +182,14 @@ public class VideoTalksLibraryPage extends PageObject {
      */
     public void checkFiltrationKeyword()
     {
+        try
+        {
+            wait.until(ExpectedConditions.invisibilityOfElementLocated(By.ByXPath.xpath("//div[@class='evnt-global-loader']")));
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+        }
         if (close.isDisplayed()) {close.click();}
         Actions action = new Actions(driver);
         searchField.sendKeys("QA");

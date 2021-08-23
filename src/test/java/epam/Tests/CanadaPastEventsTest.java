@@ -3,41 +3,15 @@ package epam.Tests;
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
 import epam.Pages.PastEventsPage;
-import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.junit.After;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.WebDriver;
-
-import java.io.InputStream;
-import java.util.concurrent.TimeUnit;
-
-import static drivers.WebDriverInit.initDriver;
 
 
-public class CanadaPastEventsTest {
-    private Logger logger = LogManager.getLogger(CanadaPastEventsTest.class);
-    public WebDriver wd;
-    InputStream inputStream;
 
-    @Before
-    public void setup() {
-    //инициализируем драйвер
-        wd = initDriver() ;
-     wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-     wd.manage().window().maximize();
-     logger.info("Драйвер поднят");
-    }
 
-    @After
-    public void shutdown() {
-        wd.close();
-        logger.info("Драйвер опущен");
-    }
+public class CanadaPastEventsTest extends BaseTestClass{
+
 
   /**
    * Просмотр прошедших мероприятий в Канаде:
@@ -56,7 +30,7 @@ public class CanadaPastEventsTest {
          */
 
         MainPage mainP = new MainPage(wd);
-        mainP.openEvents(wd);
+        mainP.openEvents();
 
         /**
         *Создаем экземпляр страницы Events, проверяем ее открытие

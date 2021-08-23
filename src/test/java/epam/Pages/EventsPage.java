@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.Locale;
 
 
-public class EventsPage extends PageObject {
+public class EventsPage {
     private WebDriver driver;
     private WebDriverWait wait;
     private Logger logger = LogManager.getLogger(FutureEventsTest.class);

@@ -25,7 +25,7 @@ import java.util.List;
 import java.util.Locale;
 
 
-public class PastEventsPage extends PageObject {
+public class PastEventsPage {
     private WebDriver driver;
     private WebDriverWait wait;
     private Logger logger = LogManager.getLogger(FutureEventsTest.class);

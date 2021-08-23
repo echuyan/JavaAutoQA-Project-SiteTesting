@@ -1,52 +1,27 @@
 package epam.Tests;
 
 import epam.Pages.PastEventsPage;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.junit.After;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.WebDriver;
+
 import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
 
-import java.io.*;
-import java.util.concurrent.TimeUnit;
 
-import static drivers.WebDriverInit.initDriver;
+public class CheckPastEventCardsTest extends BaseTestClass {
 
 
-public class CheckPastEventCardsTest {
-    private Logger logger = LogManager.getLogger(CheckPastEventCardsTest.class);
-    public WebDriver wd;
-    InputStream inputStream;
-
-    @Before
-    public void setup() {
-    //инициализируем драйвер
-        wd = initDriver() ;
-     wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-     wd.manage().window().maximize();
-     logger.info("Драйвер поднят");
-    }
-
-    @After
-    public void shutdown() {
-        wd.close();
-        logger.info("Драйвер опущен");
-    }
-
-    /*Просмотр карточек мероприятий:
-    1 Пользователь переходит на вкладку events
-    2 Пользователь нажимает на Past Events
-    3 На странице отображаются карточки прошедших мероприятий.
-    4 В карточке указана информация о мероприятии:
-        язык
-        название мероприятия
-        дата мероприятия
-        информация о регистрации
-        список спикеров // Минимально достаточное - проверить одну карточку. В идеале все что отображаются.*/
+    /**Просмотр карточек мероприятий:
+    *1 Пользователь переходит на вкладку events
+   * 2 Пользователь нажимает на Past Events
+   * 3 На странице отображаются карточки прошедших мероприятий.
+   * 4 В карточке указана информация о мероприятии:
+     *   язык
+    *    название мероприятия
+    *    дата мероприятия
+     *   информация о регистрации
+      *  список спикеров // Минимально достаточное - проверить одну карточку. В идеале все что отображаются.
+     */
     @Test
     public void checkEventCardTest() {
 
@@ -55,7 +30,7 @@ public class CheckPastEventCardsTest {
          */
 
         MainPage mainP = new MainPage(wd);
-        mainP.openEvents(wd);
+        mainP.openEvents();
 
         /**
         *Создаем экземпляр страницы Events, проверяем ее открытие
