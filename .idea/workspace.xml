@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4fabc9c6-eab5-48be-ae77-20c5e886ef65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/CanadaPastEventsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/CheckPastEventCardsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/FilterTalksByCategoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/FindTalksByKeywordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/FindTalksByKeywordTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/FutureEventsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/FutureEventsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/UpcomingEventsDatesValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/UpcomingEventsDatesValidationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,7 +32,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
+            <state relative-caret-position="393">
               <caret line="190" column="32" selection-start-line="190" selection-start-column="32" selection-end-line="190" selection-end-column="32" />
             </state>
           </provider>
@@ -250,7 +239,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629745447271" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629747746612" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -436,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629318139092</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1) Created BaseTestClass&#10;2) Removed unused variables&#10;3) In 5th test removed checking of last event card&#10;4) Removed unused dependencies">
+      <created>1629745587216</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1629745587216</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -471,7 +467,7 @@
       <configuration name="All in ChuyanProjectWork (1)" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -482,6 +478,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908257" visible="true" weight="0.24542773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -492,7 +489,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50091743" side_tool="true" weight="0.24247788" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.47023088" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36695018" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36695018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3705954" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -549,7 +546,8 @@
     <MESSAGE value="Updating repo" />
     <MESSAGE value="6th test done" />
     <MESSAGE value="Selenoid support" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenoid support" />
+    <MESSAGE value="1) Created BaseTestClass&#10;2) Removed unused variables&#10;3) In 5th test removed checking of last event card&#10;4) Removed unused dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="1) Created BaseTestClass&#10;2) Removed unused variables&#10;3) In 5th test removed checking of last event card&#10;4) Removed unused dependencies" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -720,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="393">
           <caret line="190" column="32" selection-start-line="190" selection-start-column="32" selection-end-line="190" selection-end-column="32" />
         </state>
       </provider>
