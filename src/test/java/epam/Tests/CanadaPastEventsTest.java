@@ -10,7 +10,7 @@ import org.junit.Test;
 
 
 
-public class CanadaPastEventsTest extends BaseTestClass{
+public class canadaPastEventsTest extends baseTestClass {
 
 
   /**

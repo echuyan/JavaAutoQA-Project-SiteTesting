@@ -6,7 +6,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class FindTalksByKeywordTest extends BaseTestClass {
+public class findTalksByKeywordTest extends baseTestClass {
 
 
     /**

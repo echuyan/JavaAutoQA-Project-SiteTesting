@@ -8,7 +8,7 @@ import epam.Pages.EventsPage;
 import epam.Pages.MainPage;
 
 
-public class CheckPastEventCardsTest extends BaseTestClass {
+public class checkPastEventCardsTest extends baseTestClass {
 
 
     /**Просмотр карточек мероприятий:

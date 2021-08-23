@@ -7,7 +7,7 @@ import epam.Pages.*;
 
 
 
-public class FutureEventsTest extends BaseTestClass{
+public class futureEventsTest extends baseTestClass {
 
 
     /**

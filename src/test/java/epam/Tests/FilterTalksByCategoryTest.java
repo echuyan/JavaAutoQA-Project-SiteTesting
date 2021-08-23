@@ -6,7 +6,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class FilterTalksByCategoryTest extends  BaseTestClass{
+public class filterTalksByCategoryTest extends baseTestClass {
 
 
   /**
