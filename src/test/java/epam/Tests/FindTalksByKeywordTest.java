@@ -7,7 +7,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class findTalksByKeywordTest extends baseTestClass {
+public class FindTalksByKeywordTest extends BaseTestClass {
 
 
     /**
@@ -18,7 +18,7 @@ public class findTalksByKeywordTest extends baseTestClass {
      */
     @Test
     @DisplayName("Find video talks by keyword = QA")
-    public void FilterTalksByKeywordTest() {
+    public void filterTalksByKeywordTest() {
 
         /**
          *  создаем экземпляр главной страницы сайта
@@ -27,7 +27,7 @@ public class findTalksByKeywordTest extends baseTestClass {
         MainPage mainP = new MainPage(wd);
         mainP.openVideo();
 
-        /**
+       /**
          *Создаем экземпляр страницы Video, проверяем ее открытие
          */
         VideoTalksLibraryPage videoTalksP = new VideoTalksLibraryPage(wd);
