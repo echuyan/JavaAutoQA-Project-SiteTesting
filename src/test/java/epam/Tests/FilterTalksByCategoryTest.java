@@ -19,7 +19,7 @@ public class filterTalksByCategoryTest extends baseTestClass {
      */
     @Test
     @DisplayName("Filter video talks by category = Testing, language = English and location = Belarus")
-    public void FilterTalksByCategoryTest() {
+    public void filterTalksByCategoryTest() {
 
         /**
          *  создаем экземпляр главной страницы сайта
