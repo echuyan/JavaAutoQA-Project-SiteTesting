@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 import static drivers.WebDriverInit.initDriver;
 
-public class baseTestClass {
+public class BaseTestClass {
 
     private Logger logger = LogManager.getLogger(baseTestClass.class);
     public WebDriver wd;
