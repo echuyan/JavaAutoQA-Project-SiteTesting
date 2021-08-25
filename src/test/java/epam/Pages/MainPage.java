@@ -13,21 +13,19 @@ public class MainPage {
     private static String PAGE_URL = "https://events.epam.com/";
 
     //Вкладка Events
-    @FindBy(xpath="//a[@class='nav-link'][contains(.,'Events')]")
+    @FindBy(xpath = "//a[@class='nav-link'][contains(.,'Events')]")
     private WebElement eventsTab;
 
     //Вкладка Video
-       @FindBy(xpath="//a[@class='nav-link'][contains(.,'Video')]")
-       private WebElement videoTab;
+    @FindBy(xpath = "//a[@class='nav-link'][contains(.,'Video')]")
+    private WebElement videoTab;
 
-       // кнопка акцепта куки
-       @FindBy(xpath="//div[@id='onetrust-banner-sdk']//descendant::button[@id='onetrust-accept-btn-handler']")
-       private WebElement acceptCookies;
-
-
+    // кнопка акцепта куки
+    @FindBy(xpath = "//div[@id='onetrust-banner-sdk']//descendant::button[@id='onetrust-accept-btn-handler']")
+    private WebElement acceptCookies;
 
 
-    public MainPage(WebDriver driver){
+    public MainPage(WebDriver driver) {
         this.driver = driver;
         driver.get(PAGE_URL);
         PageFactory.initElements(driver, this);
@@ -35,15 +33,13 @@ public class MainPage {
     }
 
     //открытие вкладки Events
-    public void openEvents()
-    {
-      eventsTab.click();
-     }
+    public void openEvents() {
+        eventsTab.click();
+    }
 
 
     //открытие вкладки Video
-    public void openVideo()
-    {
+    public void openVideo() {
         videoTab.click();
     }
 

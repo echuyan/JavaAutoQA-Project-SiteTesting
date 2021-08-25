@@ -18,7 +18,7 @@ public class baseTestClass {
     @Before
     public void setup() {
         //инициализируем драйвер
-        wd = initDriver() ;
+        wd = initDriver();
         wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         wd.manage().window().maximize();
         logger.info("Драйвер поднят");

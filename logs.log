@@ -2064,3 +2064,61 @@
 2021-08-23 22:49:58,317 INFO e.T.futureEventsTest [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
 2021-08-23 22:49:58,317 INFO e.T.futureEventsTest [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
 2021-08-23 22:49:58,397 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 16:30:00,060 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 16:30:33,406 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 16:59:07,320 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 16:59:13,829 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:08:01,358 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:08:20,895 INFO e.T.futureEventsTest [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-25 17:08:39,438 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:31:43,695 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:32:05,645 INFO e.P.BasePage [main] 4 - 11 Dec 2019
+2021-08-25 17:32:05,658 INFO e.P.BasePage [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-25 17:32:05,745 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:32:08,778 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:32:19,178 INFO e.P.BasePage [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-25 17:32:19,214 INFO e.P.BasePage [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-25 17:32:19,253 INFO e.P.BasePage [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-25 17:32:19,293 INFO e.P.BasePage [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-25 17:32:19,364 INFO e.P.BasePage [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-25 17:32:21,118 INFO e.P.BasePage [main] Список спикеров:
+
+2021-08-25 17:32:21,145 INFO e.P.BasePage [main] Speaker
+2021-08-25 17:32:21,208 INFO e.P.BasePage [main] Aleksandr Chikovani
+2021-08-25 17:32:21,253 INFO e.P.BasePage [main] Aleksandra Konnova
+2021-08-25 17:32:21,297 INFO e.P.BasePage [main] Mikhail Latypov
+2021-08-25 17:32:21,351 INFO e.P.BasePage [main] Konstantin Semenov
+2021-08-25 17:32:21,389 INFO e.P.BasePage [main] Alisa Khoroshenina
+2021-08-25 17:32:21,430 INFO e.P.BasePage [main] Vasilii Komolov
+2021-08-25 17:32:21,470 INFO e.P.BasePage [main] Eliza Iliazova
+2021-08-25 17:32:21,514 INFO e.P.BasePage [main] Vasil Kasimov
+2021-08-25 17:32:21,565 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:32:21,608 INFO e.P.BasePage [main] Timur Sokolov
+2021-08-25 17:32:21,652 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:32:21,693 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:32:21,734 INFO e.P.BasePage [main] Denis Mokrushin
+2021-08-25 17:32:21,769 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:32:21,801 INFO e.P.BasePage [main] Ilia Isakhin
+2021-08-25 17:32:21,835 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:32:21,870 INFO e.P.BasePage [main] Aida Zainullina
+2021-08-25 17:32:21,903 INFO e.P.BasePage [main] Aleksei Pimenov
+2021-08-25 17:32:21,937 INFO e.P.BasePage [main] Konstantin Anfalov
+2021-08-25 17:32:21,976 INFO e.P.BasePage [main] Sergei Dudoladov
+2021-08-25 17:32:22,030 INFO e.P.BasePage [main] Александр Морозов
+2021-08-25 17:32:22,272 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:33:10,834 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:33:29,604 INFO e.P.BasePage [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-25 17:33:53,639 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:33:55,692 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:34:31,436 INFO e.P.BasePage [main] Найдено карточек с ключевым словом QA: 3
+2021-08-25 17:34:34,199 INFO e.P.BasePage [main] Памятка молодого QA менеджера
+2021-08-25 17:34:38,385 INFO e.P.BasePage [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-25 17:34:42,690 INFO e.P.BasePage [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-25 17:34:44,966 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:34:55,698 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:35:17,525 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:35:47,052 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:36:35,560 INFO e.P.BasePage [main] 1 Feb - 25 Aug 2025
+2021-08-25 17:36:35,577 INFO e.P.BasePage [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-25 17:36:35,578 INFO e.P.BasePage [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-25 17:36:35,657 INFO e.T.baseTestClass [main] Драйвер опущен

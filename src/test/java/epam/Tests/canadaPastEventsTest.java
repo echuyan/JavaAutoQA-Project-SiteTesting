@@ -8,20 +8,18 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-
-
 public class canadaPastEventsTest extends baseTestClass {
 
 
-  /**
-   * Просмотр прошедших мероприятий в Канаде:
-   * 1 Пользователь переходит на вкладку events
-   * 2 Пользователь нажимает на Past Events
-   * 3 Пользователь нажимает на Location в блоке фильтров и выбирает Canada в выпадающем списке
-   * 4 На странице отображаются карточки прошедших мероприятий. Количество карточек равно счетчику на кнопке Past Events. Даты проведенных мероприятий меньше текущей даты.
-   */
-     @Test
-     @DisplayName("Check past events in Canada")
+    /**
+     * Просмотр прошедших мероприятий в Канаде:
+     * 1 Пользователь переходит на вкладку events
+     * 2 Пользователь нажимает на Past Events
+     * 3 Пользователь нажимает на Location в блоке фильтров и выбирает Canada в выпадающем списке
+     * 4 На странице отображаются карточки прошедших мероприятий. Количество карточек равно счетчику на кнопке Past Events. Даты проведенных мероприятий меньше текущей даты.
+     */
+    @Test
+    @DisplayName("Check past events in Canada")
 
     public void CanadaPastEventsTest() {
 
@@ -33,29 +31,27 @@ public class canadaPastEventsTest extends baseTestClass {
         mainP.openEvents();
 
         /**
-        *Создаем экземпляр страницы Events, проверяем ее открытие
-        */
-         EventsPage  eventsP = new EventsPage (wd);
+         *Создаем экземпляр страницы Events, проверяем ее открытие
+         */
+        EventsPage eventsP = new EventsPage(wd);
         Assert.assertTrue(eventsP.isPageOpened());
 
 
+        /**
+         *Создаем экземпляр страницы Past Events, проверяем ее открытие
+         */
+        eventsP.openPastEvents();
+        PastEventsPage pastEvents = new PastEventsPage(wd);
+        Assert.assertTrue(pastEvents.isPageOpened());
 
-         /**
-          *Создаем экземпляр страницы Past Events, проверяем ее открытие
-          */
-         eventsP.openPastEvents();
-         PastEventsPage pastEvents = new PastEventsPage(wd);
-         Assert.assertTrue(pastEvents.isPageOpened());
+        /**
+         * Проверяем прошедшие канадские мероприятия
+         */
 
-         /**
-          * Проверяем прошедшие канадские мероприятия
-          */
-
-         pastEvents.checkCanadaEvents();
-
+        pastEvents.checkCanadaEvents();
 
 
-     }
+    }
 }
 
 
