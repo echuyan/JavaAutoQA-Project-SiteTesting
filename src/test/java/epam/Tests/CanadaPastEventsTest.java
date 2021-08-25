@@ -8,7 +8,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class canadaPastEventsTest extends baseTestClass {
+public class CanadaPastEventsTest extends baseTestClass {
 
 
     /**
@@ -21,7 +21,7 @@ public class canadaPastEventsTest extends baseTestClass {
     @Test
     @DisplayName("Check past events in Canada")
 
-    public void CanadaPastEventsTest() {
+    public void canadaPastEventsTest() {
 
         /**
          *  создаем экземпляр главной страницы сайта
