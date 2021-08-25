@@ -8,7 +8,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class CanadaPastEventsTest extends baseTestClass {
+public class CanadaPastEventsTest extends BaseTestClass {
 
 
     /**
