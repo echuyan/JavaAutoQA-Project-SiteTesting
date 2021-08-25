@@ -7,7 +7,7 @@ import org.junit.Assert;
 import epam.Pages.*;
 
 
-public class futureEventsTest extends baseTestClass {
+public class FutureEventsTest extends BaseTestClass {
 
 
     /**
