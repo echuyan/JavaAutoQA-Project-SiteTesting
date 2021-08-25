@@ -12,7 +12,7 @@ import static drivers.WebDriverInit.initDriver;
 
 public class BaseTestClass {
 
-    private Logger logger = LogManager.getLogger(baseTestClass.class);
+    private Logger logger = LogManager.getLogger(BaseTestClass.class);
     public WebDriver wd;
 
     @Before
