@@ -7,7 +7,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 
-public class upcomingEventsDatesValidationTest extends baseTestClass {
+public class UpcomingEventsDatesValidationTest extends BaseTestClass {
 
 
     /**
@@ -19,7 +19,7 @@ public class upcomingEventsDatesValidationTest extends baseTestClass {
      */
     @Test
     @DisplayName("Upcoming events dates validation")
-    public void UpcomingEventsDatesValidationTest() {
+    public void upcomingEventsDatesValidationTest() {
 
         /**
          *  создаем экземпляр главной страницы сайта
