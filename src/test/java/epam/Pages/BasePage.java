@@ -1,6 +1,5 @@
 package epam.Pages;
 
-import epam.Tests.futureEventsTest;
 import io.qameta.allure.Allure;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

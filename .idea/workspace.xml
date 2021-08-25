@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fabc9c6-eab5-48be-ae77-20c5e886ef65" name="Default Changelist" comment="1. Added Base Page">
-      <change afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/BasePage.java" afterDir="false" />
+    <list default="true" id="4fabc9c6-eab5-48be-ae77-20c5e886ef65" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/EventsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/PastEventsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/baseTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/baseTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/canadaPastEventsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/canadaPastEventsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/checkPastEventCardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/checkPastEventCardsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/filterTalksByCategoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/filterTalksByCategoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/findTalksByKeywordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/findTalksByKeywordTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/futureEventsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/futureEventsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/epam/Tests/upcomingEventsDatesValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/epam/Tests/upcomingEventsDatesValidationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,11 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
+            <state relative-caret-position="2368">
               <caret line="152" column="67" selection-start-line="152" selection-start-column="67" selection-end-line="152" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/baseTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -262,7 +262,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629902722674" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629911434903" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -298,8 +298,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.epam.Tests in ChuyanProjectWork">
-    <configuration name="All in ChuyanProjectWork (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in ChuyanProjectWork (3)">
+    <configuration name="All in ChuyanProjectWork (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ChuyanProjectWork" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -307,10 +307,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in ChuyanProjectWork (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in ChuyanProjectWork (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ChuyanProjectWork" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ChuyanProjectWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChuyanProjectWork" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterTalksByCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ChuyanProjectWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="epam.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="epam.Tests" />
+      <option name="MAIN_CLASS_NAME" value="epam.Tests.FilterTalksByCategoryTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -329,41 +351,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="filterTalksByCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ChuyanProjectWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="epam.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="epam.Tests" />
-      <option name="MAIN_CLASS_NAME" value="epam.Tests.filterTalksByCategoryTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="findTalksByKeywordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ChuyanProjectWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="epam.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="epam.Tests" />
-      <option name="MAIN_CLASS_NAME" value="epam.Tests.findTalksByKeywordTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in ChuyanProjectWork (3)" />
+        <item itemvalue="JUnit.All in ChuyanProjectWork" />
         <item itemvalue="JUnit.epam.Tests in ChuyanProjectWork" />
-        <item itemvalue="JUnit.filterTalksByCategoryTest" />
+        <item itemvalue="JUnit.FilterTalksByCategoryTest" />
         <item itemvalue="JUnit.All in ChuyanProjectWork (2)" />
-        <item itemvalue="JUnit.All in ChuyanProjectWork (1)" />
-        <item itemvalue="JUnit.findTalksByKeywordTest" />
       </list>
     </recent_temporary>
   </component>
@@ -476,16 +470,24 @@
       <option name="project" value="LOCAL" />
       <updated>1629748564059</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1. Added Base Page with takeScreen method&#10;2. Fixed code style&#10;3. Fixed method names">
+      <created>1629902770945</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1629902770947</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1. Added Base Page with takeScreen method&#10;2. Fixed code style&#10;3. Fixed method names">
+      <created>1629902780227</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1629902780228</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CanadaPastEventsTest - 2021.08.23 at 21h 40m 05s.xml">
-      <configuration name="CanadaPastEventsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CanadaPastEventsTest - 2021.08.23 at 21h 46m 25s.xml">
-      <configuration name="CanadaPastEventsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_ChuyanProjectWork - 2021.08.23 at 21h 55m 21s.xml">
       <configuration name="All in ChuyanProjectWork" configurationId="JUnit" />
     </history-entry>
@@ -510,6 +512,12 @@
     <history-entry file="epam_Tests_in_ChuyanProjectWork - 2021.08.25 at 17h 36m 36s.xml">
       <configuration name="epam.Tests in ChuyanProjectWork" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_ChuyanProjectWork - 2021.08.25 at 17h 50m 55s.xml">
+      <configuration name="All in ChuyanProjectWork" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ChuyanProjectWork_(3) - 2021.08.25 at 18h 01m 41s.xml">
+      <configuration name="All in ChuyanProjectWork (3)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -522,7 +530,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908257" visible="true" weight="0.22241887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -533,7 +540,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50091743" side_tool="true" weight="0.24247788" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.47023088" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35722965" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2089915" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3705954" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -593,7 +600,8 @@
     <MESSAGE value="1) Created BaseTestClass&#10;2) Removed unused variables&#10;3) In 5th test removed checking of last event card&#10;4) Removed unused dependencies" />
     <MESSAGE value="BaseTestClass" />
     <MESSAGE value="minor improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor improvements" />
+    <MESSAGE value="1. Added Base Page with takeScreen method&#10;2. Fixed code style&#10;3. Fixed method names" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Added Base Page with takeScreen method&#10;2. Fixed code style&#10;3. Fixed method names" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -756,16 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/baseTestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/BasePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -788,8 +786,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/epam/Pages/VideoTalksLibraryPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
+        <state relative-caret-position="2368">
           <caret line="152" column="67" selection-start-line="152" selection-start-column="67" selection-end-line="152" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/epam/Tests/baseTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

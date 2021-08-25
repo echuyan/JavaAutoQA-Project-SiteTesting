@@ -2122,3 +2122,152 @@
 2021-08-25 17:36:35,577 INFO e.P.BasePage [main] Р”Р°С‚Р°1 Mon Feb 01 00:00:00 MSK 2021
 2021-08-25 17:36:35,578 INFO e.P.BasePage [main] Р”Р°С‚Р°2 Mon Aug 25 00:00:00 MSK 2025
 2021-08-25 17:36:35,657 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:47:35,876 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:47:51,187 INFO e.P.BasePage [main] 4 - 11 Dec 2019
+2021-08-25 17:47:51,201 INFO e.P.BasePage [main] Р”Р°С‚Р°2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-25 17:47:51,280 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:47:53,383 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:48:10,638 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ СЌР»РµРјРµРЅС‚РѕРІ СЃ СѓРєР°Р·Р°РЅРёРµРј СЏР·С‹РєР° РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 12
+2021-08-25 17:48:10,666 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ СЌР»РµРјРµРЅС‚РѕРІ СЃ СѓРєР°Р·Р°РЅРёРµРј РЅР°Р·РІР°РЅРёСЏ РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 12
+2021-08-25 17:48:10,699 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ СЌР»РµРјРµРЅС‚РѕРІ СЃ СѓРєР°Р·Р°РЅРёРµРј РґР°С‚С‹ РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 12
+2021-08-25 17:48:10,730 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ СЌР»РµРјРµРЅС‚РѕРІ СЃ СѓРєР°Р·Р°РЅРёРµРј СЃС‚Р°С‚СѓСЃР° РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 12
+2021-08-25 17:48:10,763 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ РЎРїРёРєРµСЂРѕРІ РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 22
+2021-08-25 17:48:11,835 INFO e.P.BasePage [main] РЎРїРёСЃРѕРє СЃРїРёРєРµСЂРѕРІ:
+
+2021-08-25 17:48:11,855 INFO e.P.BasePage [main] Speaker
+2021-08-25 17:48:11,887 INFO e.P.BasePage [main] Aleksandr Chikovani
+2021-08-25 17:48:11,917 INFO e.P.BasePage [main] Aleksandra Konnova
+2021-08-25 17:48:11,945 INFO e.P.BasePage [main] Mikhail Latypov
+2021-08-25 17:48:11,981 INFO e.P.BasePage [main] Konstantin Semenov
+2021-08-25 17:48:12,012 INFO e.P.BasePage [main] Alisa Khoroshenina
+2021-08-25 17:48:12,042 INFO e.P.BasePage [main] Yulia Kanakova
+2021-08-25 17:48:12,074 INFO e.P.BasePage [main] Natalya Lukyanenko
+2021-08-25 17:48:12,106 INFO e.P.BasePage [main] Vasil Kasimov
+2021-08-25 17:48:12,148 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:48:12,181 INFO e.P.BasePage [main] Timur Sokolov
+2021-08-25 17:48:12,213 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:48:12,248 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:48:12,280 INFO e.P.BasePage [main] Denis Mokrushin
+2021-08-25 17:48:12,314 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:48:12,353 INFO e.P.BasePage [main] Ilia Isakhin
+2021-08-25 17:48:12,388 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:48:12,425 INFO e.P.BasePage [main] Aida Zainullina
+2021-08-25 17:48:12,460 INFO e.P.BasePage [main] Aleksei Pimenov
+2021-08-25 17:48:12,529 INFO e.P.BasePage [main] Konstantin Anfalov
+2021-08-25 17:48:12,562 INFO e.P.BasePage [main] Sergei Dudoladov
+2021-08-25 17:48:12,594 INFO e.P.BasePage [main] РђР»РµРєСЃР°РЅРґСЂ РњРѕСЂРѕР·РѕРІ
+2021-08-25 17:48:12,693 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:48:53,283 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:49:07,466 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РєР°СЂС‚РѕС‡РµРє СЃ РјРµСЂРѕРїСЂРёСЏС‚РёСЏРјРё Р’ Р‘РµР»Р°СЂСѓСЃРё РЅР° Р°РЅРіР»РёР№СЃРєРѕРј СЏР·С‹РєРµ РїРѕ С‚РµРјР°С‚РёРєРµ РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ: 4
+2021-08-25 17:49:30,887 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:49:32,719 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:49:45,676 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:50:32,736 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:50:42,944 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:50:47,765 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:50:55,173 INFO e.P.BasePage [main] 1 Feb - 25 Aug 2025
+2021-08-25 17:50:55,194 INFO e.P.BasePage [main] Р”Р°С‚Р°1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-25 17:50:55,194 INFO e.P.BasePage [main] Р”Р°С‚Р°2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-25 17:50:55,270 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:53:05,123 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:53:12,263 INFO e.P.BasePage [main] 4 - 11 Dec 2019
+2021-08-25 17:53:12,281 INFO e.P.BasePage [main] Дата2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-25 17:53:12,360 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:53:14,834 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:53:21,703 INFO e.P.BasePage [main] Найдено на странице элементов с указанием языка мероприятия: 12
+2021-08-25 17:53:21,732 INFO e.P.BasePage [main] Найдено на странице элементов с указанием названия мероприятия: 12
+2021-08-25 17:53:21,761 INFO e.P.BasePage [main] Найдено на странице элементов с указанием даты мероприятия: 12
+2021-08-25 17:53:21,789 INFO e.P.BasePage [main] Найдено на странице элементов с указанием статуса мероприятия: 12
+2021-08-25 17:53:21,821 INFO e.P.BasePage [main] Найдено на странице Спикеров мероприятия: 22
+2021-08-25 17:53:23,009 INFO e.P.BasePage [main] Список спикеров:
+
+2021-08-25 17:53:23,025 INFO e.P.BasePage [main] Speaker
+2021-08-25 17:53:23,060 INFO e.P.BasePage [main] Aleksandr Chikovani
+2021-08-25 17:53:23,087 INFO e.P.BasePage [main] Aleksandra Konnova
+2021-08-25 17:53:23,114 INFO e.P.BasePage [main] Mikhail Latypov
+2021-08-25 17:53:23,143 INFO e.P.BasePage [main] Konstantin Semenov
+2021-08-25 17:53:23,171 INFO e.P.BasePage [main] Alisa Khoroshenina
+2021-08-25 17:53:23,198 INFO e.P.BasePage [main] Vasilii Komolov
+2021-08-25 17:53:23,227 INFO e.P.BasePage [main] Eliza Iliazova
+2021-08-25 17:53:23,261 INFO e.P.BasePage [main] Vasil Kasimov
+2021-08-25 17:53:23,293 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:53:23,327 INFO e.P.BasePage [main] Timur Sokolov
+2021-08-25 17:53:23,361 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:53:23,394 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:53:23,426 INFO e.P.BasePage [main] Denis Mokrushin
+2021-08-25 17:53:23,459 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:53:23,494 INFO e.P.BasePage [main] Ilia Isakhin
+2021-08-25 17:53:23,522 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:53:23,551 INFO e.P.BasePage [main] Aida Zainullina
+2021-08-25 17:53:23,583 INFO e.P.BasePage [main] Aleksei Pimenov
+2021-08-25 17:53:23,612 INFO e.P.BasePage [main] Konstantin Anfalov
+2021-08-25 17:53:23,640 INFO e.P.BasePage [main] Sergei Dudoladov
+2021-08-25 17:53:23,669 INFO e.P.BasePage [main] Александр Морозов
+2021-08-25 17:53:23,760 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:54:14,371 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:54:27,795 INFO e.P.BasePage [main] Найдено карточек с мероприятиями В Беларуси на английском языке по тематике Тестирование: 4
+2021-08-25 17:54:52,866 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:54:54,915 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:55:22,805 INFO e.P.BasePage [main] Найдено карточек с ключевым словом QA: 3
+2021-08-25 17:55:24,409 INFO e.P.BasePage [main] Памятка молодого QA менеджера
+2021-08-25 17:55:27,855 INFO e.P.BasePage [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-25 17:55:31,241 INFO e.P.BasePage [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-25 17:55:33,215 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:55:55,049 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:56:01,084 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:56:35,414 INFO e.T.baseTestClass [main] Драйвер поднят
+2021-08-25 17:56:41,652 INFO e.P.BasePage [main] 1 Feb - 25 Aug 2025
+2021-08-25 17:56:41,672 INFO e.P.BasePage [main] Дата1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-25 17:56:41,673 INFO e.P.BasePage [main] Дата2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-25 17:56:41,748 INFO e.T.baseTestClass [main] Драйвер опущен
+2021-08-25 17:57:12,025 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:57:47,364 INFO e.P.BasePage [main] 4 - 11 Dec 2019
+2021-08-25 17:57:47,376 INFO e.P.BasePage [main] Р”Р°С‚Р°2 Wed Dec 11 00:00:00 MSK 2019
+2021-08-25 17:57:47,514 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:57:49,909 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:57:57,363 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ СЌР»РµРјРµРЅС‚РѕРІ СЃ СѓРєР°Р·Р°РЅРёРµРј СЏР·С‹РєР° РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 12
+2021-08-25 17:57:57,445 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ СЌР»РµРјРµРЅС‚РѕРІ СЃ СѓРєР°Р·Р°РЅРёРµРј РЅР°Р·РІР°РЅРёСЏ РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 12
+2021-08-25 17:57:57,517 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ СЌР»РµРјРµРЅС‚РѕРІ СЃ СѓРєР°Р·Р°РЅРёРµРј РґР°С‚С‹ РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 12
+2021-08-25 17:57:57,600 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ СЌР»РµРјРµРЅС‚РѕРІ СЃ СѓРєР°Р·Р°РЅРёРµРј СЃС‚Р°С‚СѓСЃР° РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 12
+2021-08-25 17:57:57,655 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РЅР° СЃС‚СЂР°РЅРёС†Рµ РЎРїРёРєРµСЂРѕРІ РјРµСЂРѕРїСЂРёСЏС‚РёСЏ: 22
+2021-08-25 17:57:59,287 INFO e.P.BasePage [main] РЎРїРёСЃРѕРє СЃРїРёРєРµСЂРѕРІ:
+
+2021-08-25 17:57:59,317 INFO e.P.BasePage [main] Speaker
+2021-08-25 17:57:59,397 INFO e.P.BasePage [main] Aleksandr Chikovani
+2021-08-25 17:57:59,437 INFO e.P.BasePage [main] Aleksandra Konnova
+2021-08-25 17:57:59,471 INFO e.P.BasePage [main] Mikhail Latypov
+2021-08-25 17:57:59,505 INFO e.P.BasePage [main] Konstantin Semenov
+2021-08-25 17:57:59,541 INFO e.P.BasePage [main] Alisa Khoroshenina
+2021-08-25 17:57:59,579 INFO e.P.BasePage [main] Alena Ananeva
+2021-08-25 17:57:59,614 INFO e.P.BasePage [main] Vasilii Komolov
+2021-08-25 17:57:59,656 INFO e.P.BasePage [main] Vasil Kasimov
+2021-08-25 17:57:59,692 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:57:59,730 INFO e.P.BasePage [main] Timur Sokolov
+2021-08-25 17:57:59,767 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:57:59,798 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:57:59,829 INFO e.P.BasePage [main] Denis Mokrushin
+2021-08-25 17:57:59,864 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:57:59,898 INFO e.P.BasePage [main] Ilia Isakhin
+2021-08-25 17:57:59,928 INFO e.P.BasePage [main] Mariia Vyguzova
+2021-08-25 17:57:59,961 INFO e.P.BasePage [main] Aida Zainullina
+2021-08-25 17:57:59,992 INFO e.P.BasePage [main] Aleksei Pimenov
+2021-08-25 17:58:00,027 INFO e.P.BasePage [main] Konstantin Anfalov
+2021-08-25 17:58:00,068 INFO e.P.BasePage [main] Sergei Dudoladov
+2021-08-25 17:58:00,111 INFO e.P.BasePage [main] РђР»РµРєСЃР°РЅРґСЂ РњРѕСЂРѕР·РѕРІ
+2021-08-25 17:58:00,245 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:58:49,874 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 17:59:07,832 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РєР°СЂС‚РѕС‡РµРє СЃ РјРµСЂРѕРїСЂРёСЏС‚РёСЏРјРё Р’ Р‘РµР»Р°СЂСѓСЃРё РЅР° Р°РЅРіР»РёР№СЃРєРѕРј СЏР·С‹РєРµ РїРѕ С‚РµРјР°С‚РёРєРµ РўРµСЃС‚РёСЂРѕРІР°РЅРёРµ: 4
+2021-08-25 17:59:28,690 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 17:59:31,205 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 18:00:04,368 INFO e.P.BasePage [main] РќР°Р№РґРµРЅРѕ РєР°СЂС‚РѕС‡РµРє СЃ РєР»СЋС‡РµРІС‹Рј СЃР»РѕРІРѕРј QA: 3
+2021-08-25 18:00:08,726 INFO e.P.BasePage [main] РџР°РјСЏС‚РєР° РјРѕР»РѕРґРѕРіРѕ QA РјРµРЅРµРґР¶РµСЂР°
+2021-08-25 18:00:12,771 INFO e.P.BasePage [main] [Community] 10 Mistakes Automation Engineers Still Make: the Evolution of QA Over the Last 25 Years
+2021-08-25 18:00:16,682 INFO e.P.BasePage [main] [Community] How to Draw QA Architecture Automation in Few Slight Movements
+2021-08-25 18:00:19,157 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 18:00:31,193 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 18:00:44,021 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
+2021-08-25 18:01:21,778 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2021-08-25 18:01:40,627 INFO e.P.BasePage [main] 1 Feb - 25 Aug 2025
+2021-08-25 18:01:40,640 INFO e.P.BasePage [main] Р”Р°С‚Р°1 Mon Feb 01 00:00:00 MSK 2021
+2021-08-25 18:01:40,641 INFO e.P.BasePage [main] Р”Р°С‚Р°2 Mon Aug 25 00:00:00 MSK 2025
+2021-08-25 18:01:40,727 INFO e.T.baseTestClass [main] Р”СЂР°Р№РІРµСЂ РѕРїСѓС‰РµРЅ
